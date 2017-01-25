@@ -17,6 +17,8 @@ import csv 							# Convert to spreadsheet format
 web_to_words = {}
 # List of all of the words
 all_words = []
+# List of total words in each article
+total_words = []
 
 # String of websites
 websites = ""
@@ -27,8 +29,12 @@ with open('website_list', 'r') as f:
 
 # For each website in website_list
 for site in websites:
+	print(site)
 	# Dictionary mapping words to frequency
 	word_list = {}
+
+	# Word count for article
+	word_count = 0
 
 	# Get HTML
 	url = urlopen(site)
@@ -58,6 +64,7 @@ for site in websites:
 	# For every word in the article
 	for word in strings.split():
 		word = word.lower()
+		word_count += 1
 		# Increase word frequency by 1
 		if word in word_list:
 			word_list[word] += 1
@@ -71,16 +78,20 @@ for site in websites:
 	# Add title and word/frequency to dictionary
 	web_to_words[title] = word_list
 
+	# Add to word count list
+	total_words.append(word_count)
+
+
 # Create csv document
 with open("data.csv", 'w') as csvfile:
 	# csv formatting
 	writer = csv.writer(csvfile, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 	# Write all of the words to the top row
-	space_with_all_words = [''] + all_words
+	space_with_all_words = ['SITE', 'WORD COUNT'] + all_words
 	writer.writerow(space_with_all_words)
 
 	# For each word
-	for site in web_to_words:
+	for site, word_count in zip(web_to_words, total_words):
 		# List of every word on the site
 		words = web_to_words[site]
 
@@ -95,6 +106,6 @@ with open("data.csv", 'w') as csvfile:
 			else:
 				word_frequency.append(0)
 
-		test = [site] + word_frequency
+		test = [site] + [word_count] + word_frequency
 		# Write site title and word frequency as a row in csv
 		writer.writerow(test)
