@@ -72,6 +72,10 @@ for site in websites:
 	# Get rid of puntuation
 	strings = (re.sub(r'([^\s\w]|_)+', '', strings)).lower()
 
+	# Only accept articles with more than 100 words
+	if strings.count(' ') < 100:
+		continue
+
 	# Get rid of generic words
 	meaningful_words = filter(lambda w: not w in generic_words, strings.split())
 
@@ -94,6 +98,9 @@ for site in websites:
 
 	# Add to word count list
 	total_words.append(word_count)
+
+	if len(total_words) >= 100:
+		break
 
 
 # Create csv document
