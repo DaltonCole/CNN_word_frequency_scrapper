@@ -12,6 +12,8 @@ from urllib.request import urlopen	# Get url
 from bs4 import BeautifulSoup		# Parse HTML
 import re 							# Take out punctuation
 import csv 							# Convert to spreadsheet format
+from nltk.corpus import stopwords	# Get rid of generic words
+
 
 # Dictionary of article titles to the words and frequency of words in them
 web_to_words = {}
@@ -22,6 +24,9 @@ total_words = []
 
 # String of websites
 websites = ""
+
+# Generic word list
+generic_words = set(stopwords.words('english'))
 
 # Read in string of websites form website_list
 with open('website_list', 'r') as f:
@@ -59,10 +64,13 @@ for site in websites:
 		raise SystemExit(0)
 
 	# Get rid of puntuation
-	strings = re.sub(r'([^\s\w]|_)+', '', strings)
+	strings = (re.sub(r'([^\s\w]|_)+', '', strings)).lower()
+
+	# Get rid of generic words
+	meaningful_words = filter(lambda w: not w in generic_words, strings.split())
 
 	# For every word in the article
-	for word in strings.split():
+	for word in meaningful_words:
 		word = word.lower()
 		word_count += 1
 		# Increase word frequency by 1
