@@ -42,7 +42,13 @@ for site in websites:
 	word_count = 0
 
 	# Get HTML
-	url = urlopen(site)
+	url = None
+	while url == None:
+		try:
+			url = urlopen(site, timeout=3000)
+		except:
+			print('Failed in urlopen, trying again')
+	
 	r = url.read()
 	html = r.decode("utf8")
 	url.close()
