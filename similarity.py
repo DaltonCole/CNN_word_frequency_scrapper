@@ -1,12 +1,24 @@
 import math
+import csv 		# Convert to spreadsheet format
+
 
 with open("data.csv", 'r') as csvfile:
 	# Read each row in csv file
 	rows = csvfile.readlines()
 
+	# article name name
+	article = []
+
 	# Split each row based on tabs (to form columns)
 	for i in range(len(rows)):
 		rows[i] = rows[i].split('\t')
+		# Get article name
+		article.append(rows[i][0])
+
+	# Take out 'SITE'
+	article = article[1:]
+
+	rows[0][-1] = rows[0][-1]
 
 	# Total number of words, plus 2 (for SITE and WORD_COUNT)
 	number_of_words = len(rows[0]) 
@@ -47,7 +59,6 @@ with open("data.csv", 'r') as csvfile:
 	print(euclidean_distance_between_pairs)
 
 	### Cosine Similarity ###
-
 	cosine_similarity = []
 
 	for row in range(1, len(rows)):
@@ -101,7 +112,70 @@ with open("data.csv", 'r') as csvfile:
 
 	print(jaccard_similarity)
 
+	print(article)
 
+	# Create csv document for Euclidean distance
+	with open("euclidean.csv", 'w') as csvfile:
+		# csv formatting
+		writer = csv.writer(csvfile, delimiter='\t',quoting=csv.QUOTE_MINIMAL)
 
+		# Write article names on top
+		writer.writerow([' '] + article)
+
+		# For each article:
+		print(len(article))
+		for art in range(len(article)):
+			print(art)
+			writer.writerow([article[art]] + euclidean_distance_between_pairs[art])
+
+	# Create csv document for Cosine distance
+	with open("cosine.csv", 'w') as csvfile:
+		# csv formatting
+		writer = csv.writer(csvfile, delimiter='\t',quoting=csv.QUOTE_MINIMAL)
+
+		# Write article names on top
+		writer.writerow([' '] + article)
+
+		# For each article:
+		print(len(article))
+		for art in range(len(article)):
+			print(art)
+			writer.writerow([article[art]] + cosine_similarity[art])
+
+	# Create csv document for Jaccard Distance
+	with open("jaccard.csv", 'w') as csvfile:
+		# csv formatting
+		writer = csv.writer(csvfile, delimiter='\t',quoting=csv.QUOTE_MINIMAL)
+
+		# Write article names on top
+		writer.writerow([' '] + article)
+
+		# For each article:
+		print(len(article))
+		for art in range(len(article)):
+			print(art)
+			writer.writerow([article[art]] + jaccard_similarity[art])
+
+		'''
+		# For each word
+		for site, word_count in zip(web_to_words, total_words):
+			# List of every word on the site
+			words = web_to_words[site]
+
+			# List of the frequency of all of the words in the same order as all_words is in
+			word_frequency = []
+
+			# For every word
+			for word in all_words:
+				# If in site, append frequency, if not, append a 0
+				if word in words:
+					word_frequency.append(words[word])
+				else:
+					word_frequency.append(0)
+
+			test = [site] + [word_count] + word_frequency
+			# Write site title and word frequency as a row in csv
+			writer.writerow(test)
+		'''
 
 
