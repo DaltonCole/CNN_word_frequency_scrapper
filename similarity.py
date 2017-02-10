@@ -1,6 +1,16 @@
 import math
 import csv 		# Convert to spreadsheet format
 
+def article_sort(distance, article):
+	tup = []
+
+	for dist in distance:
+		temp = []
+		for d, a in zip(dist, article):
+			temp.append((d,a))
+		tup.append((sorted(temp, key=lambda x: x[0], reverse=True)))
+
+	return tup
 
 with open("data.csv", 'r') as csvfile:
 	# Read each row in csv file
@@ -56,7 +66,7 @@ with open("data.csv", 'r') as csvfile:
 
 	euclidean_distance_similarity = euclidean_distance_between_pairs
 	
-	print(euclidean_distance_between_pairs)
+	#print(euclidean_distance_between_pairs)
 
 	### Cosine Similarity ###
 	cosine_similarity = []
@@ -85,7 +95,7 @@ with open("data.csv", 'r') as csvfile:
 
 		cosine_similarity.append(distance_between_each_pair)
 
-	print(cosine_similarity)
+	#print(cosine_similarity)
 
 	### Jaccard Similarity (binary) ###
 
@@ -110,9 +120,9 @@ with open("data.csv", 'r') as csvfile:
 
 		jaccard_similarity.append(distance_between_each_pair)
 
-	print(jaccard_similarity)
+	#print(jaccard_similarity)
 
-	print(article)
+	#print(article)
 
 	# Create csv document for Euclidean distance
 	with open("euclidean.csv", 'w') as csvfile:
@@ -123,9 +133,7 @@ with open("data.csv", 'r') as csvfile:
 		writer.writerow([' '] + article)
 
 		# For each article:
-		print(len(article))
 		for art in range(len(article)):
-			print(art)
 			writer.writerow([article[art]] + euclidean_distance_between_pairs[art])
 
 	# Create csv document for Cosine distance
@@ -137,9 +145,7 @@ with open("data.csv", 'r') as csvfile:
 		writer.writerow([' '] + article)
 
 		# For each article:
-		print(len(article))
 		for art in range(len(article)):
-			print(art)
 			writer.writerow([article[art]] + cosine_similarity[art])
 
 	# Create csv document for Jaccard Distance
@@ -151,31 +157,72 @@ with open("data.csv", 'r') as csvfile:
 		writer.writerow([' '] + article)
 
 		# For each article:
-		print(len(article))
 		for art in range(len(article)):
-			print(art)
 			writer.writerow([article[art]] + jaccard_similarity[art])
 
-		'''
-		# For each word
-		for site, word_count in zip(web_to_words, total_words):
-			# List of every word on the site
-			words = web_to_words[site]
+	# Sorted Euclidean distance
+	with open("sortedEuclidean.csv", 'w') as csvfile:
+		# csv formatting
+		writer = csv.writer(csvfile, delimiter='\t',quoting=csv.QUOTE_MINIMAL)
 
-			# List of the frequency of all of the words in the same order as all_words is in
-			word_frequency = []
+		# Distance, article pair. List of tuples
+		pair = article_sort(euclidean_distance_between_pairs, article)
 
-			# For every word
-			for word in all_words:
-				# If in site, append frequency, if not, append a 0
-				if word in words:
-					word_frequency.append(words[word])
-				else:
-					word_frequency.append(0)
+		article_number = 0
+		for single in pair:
+			value = []
+			art = []
+			for i in single:
+				value.append(i[0])
+				art.append(i[1])
 
-			test = [site] + [word_count] + word_frequency
-			# Write site title and word frequency as a row in csv
-			writer.writerow(test)
-		'''
+			writer.writerow([' '] + art)
+			writer.writerow([article[article_number]] + value)
+
+			article_number += 1
+
+	# Sorted Cosine distance
+	with open("sortedCosine.csv", 'w') as csvfile:
+		# csv formatting
+		writer = csv.writer(csvfile, delimiter='\t',quoting=csv.QUOTE_MINIMAL)
+
+		# Distance, article pair. List of tuples
+		pair = article_sort(cosine_similarity, article)
+
+		article_number = 0
+		for single in pair:
+			value = []
+			art = []
+			for i in single:
+				value.append(i[0])
+				art.append(i[1])
+
+			writer.writerow([' '] + art)
+			writer.writerow([article[article_number]] + value)
+
+			article_number += 1
+
+	# Sorted Jaccard distance
+	with open("sortedJaccard.csv", 'w') as csvfile:
+		# csv formatting
+		writer = csv.writer(csvfile, delimiter='\t',quoting=csv.QUOTE_MINIMAL)
+
+		# Distance, article pair. List of tuples
+		pair = article_sort(jaccard_similarity, article)
+
+		article_number = 0
+		for single in pair:
+			value = []
+			art = []
+			for i in single:
+				value.append(i[0])
+				art.append(i[1])
+
+			writer.writerow([' '] + art)
+			writer.writerow([article[article_number]] + value)
+
+			article_number += 1
+
+
 
 
