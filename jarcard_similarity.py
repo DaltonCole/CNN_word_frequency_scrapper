@@ -1,20 +1,16 @@
-from math import sqrt
+from math import sqrt, inf
 from numpy import dot
 
 def jarcard_similarity(u, v):
 	"""
-	Returns the Jarcard distance between vectors u and v. Word existance is used instead of frequency.
+	Returns the Jarcard distance between vectors u and v. Generalized Jaccard similarity and distance
 	"""
-	m_11 = 1
-	m_01 = 0
-	m_10 = 0
-
+	num = 0
+	den = 0
 	for i, j in zip(u, v):
-		if i != 0 and j != 0:
-			m_11 += 1
-		elif i != 0:
-			m_01 += 1
-		elif j != 0:
-			m_10 += 1
+		num += min(i, j)
+		den += max(i, j)
 
-	return (m_11 / (m_11 + m_01 + m_10))
+	return 1 - (num / den)
+
+# Other examples: http://www.nltk.org/_modules/nltk/cluster/util.html

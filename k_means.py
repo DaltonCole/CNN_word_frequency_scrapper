@@ -2,6 +2,7 @@ import csv 		# Convert to spreadsheet format
 import sys
 import numpy
 from jarcard_similarity import jarcard_similarity
+from sum_of_squares import SSE
 from nltk.cluster.kmeans import KMeansClusterer # Kmeans
 from nltk.cluster.util import cosine_distance, euclidean_distance # Distances (cosine, euclidean)
 
@@ -52,23 +53,29 @@ if reduce_var:
 	print(len(article_word_frequency[0]))
 	article_word_frequency = sel.fit_transform(article_word_frequency)
 	print(len(article_word_frequency[0]))
-
+	
 article_word_frequency = numpy.array(article_word_frequency, dtype=float)
-#################################################### Euclidean Kmeans ####################################################
-euclidean_k_clusters = KMeansClusterer(NUM_CLUSTERS, distance=euclidean_distance, repeats=25)
-assigned_clusters_euclidean = euclidean_k_clusters.cluster(article_word_frequency, assign_clusters=True)
-print(assigned_clusters_euclidean)
 
+#################################################### Euclidean Kmeans ####################################################
+euclidean_k_clusters = KMeansClusterer(NUM_CLUSTERS, distance=euclidean_distance, repeats=10)
+assigned_clusters_euclidean = euclidean_k_clusters.cluster(article_word_frequency, assign_clusters=True)
+#print((assigned_clusters_euclidean))
+
+euclidean_SSE = SSE(article_word_frequency, assigned_clusters_euclidean, NUM_CLUSTERS)
+#print(euclidean_SSE)
+
+
+'''
 #################################################### Cosine Kmeans ####################################################
-cosine_k_clusters = KMeansClusterer(NUM_CLUSTERS, distance=cosine_distance, repeats=25)
+cosine_k_clusters = KMeansClusterer(NUM_CLUSTERS, distance=cosine_distance, repeats=1)
 assigned_clusters_cosine = cosine_k_clusters.cluster(article_word_frequency, assign_clusters=True)
 print(assigned_clusters_cosine)
 
 #################################################### Jarcard Kmeans ####################################################
-jarcard_k_clusters = KMeansClusterer(NUM_CLUSTERS, distance=jarcard_similarity, repeats=25)
+jarcard_k_clusters = KMeansClusterer(NUM_CLUSTERS, distance=jarcard_similarity, repeats=1)
 assigned_clusters_jarcard = jarcard_k_clusters.cluster(article_word_frequency, assign_clusters=True)
 print(assigned_clusters_jarcard)
-
+'''
 
 
 
