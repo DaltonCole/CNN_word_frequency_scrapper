@@ -1,0 +1,210 @@
+\documentclass[times]{article}
+
+\usepackage{graphicx}
+\usepackage{placeins}
+\usepackage{float}
+\usepackage[ruled,linesnumbered]{algorithm2e}
+\usepackage[none]{hyphenat}
+\usepackage{amsmath}
+\newcommand{\thickhat}[1]{\mathbf{\hat{\text{$#1$}}}}
+\usepackage[us]{datetime}
+\usepackage[explicit]{titlesec}
+\usepackage[margin=1.0in]{geometry}
+\begin{document}
+	\title{CS 6001 Applied Spatial and Temporal Data Analysis - Spring 2017 - Homework 3}
+	\author{Dalton Cole}
+	\date{\formatdate{13}{3}{2017}}
+	\maketitle
+
+	\section{Data Retrieval}
+		\paragraph{}
+		For this assignment, I had to retrive 100 CNN articles and convert them to a data matrix. This is done using the \textbf{scrapy.py} script, which is a python script. This script grabs the articles and title data from 100 CNN articles that have their URLs in \textbf{website\_list}. The articles must have at least 150 words to be considered a valid article. The articles used are in \textbf{used\_site\_list.txt}. For this experiment, all URLs in \textbf{website\_list} were used.
+
+		\paragraph{}
+		Five different categories of articles were used: Politics, Technology, Investment, Travel, and Health. These articles range over a wide time period but are about roughly the same subject (in respect to their categories).
+
+		\paragraph{}
+		The python script creates a data matrix with the article data. It counts the frequency of each word in each article and saves it in a csv file. The type of article is also stored in this file. The data is saved to \textbf{data.csv}ù.
+	
+	\section{Classification}
+		\paragraph{}
+		Next, I had to run K-means clustering on the data matrix. K-means is explained in Algorithm \ref{alg:k_means}. The script used to run this is \textbf{k\_means.py}. The script takes the \textbf{data.csv} file and sorts the data into articles and article type. I then do K-means clustering using Euclidean, Cosine, and Jarcard distances. The nltk python module is used. Nltk's Euclidean and Cosine distances are used, while Jarcard is implemented in \textbf{jarcard\_similarity.py}.
+
+		\begin{algorithm}[H]
+		Select K points as the initial centroids \\
+		\textbf{Repeat} \\
+			Form K clusters by assigning all points to the closest centroid \\
+			Recompute the centroid of each cluster \\
+		\textbf{Until} The centroids don't change \\
+		\caption{Algorithm for K-Means}
+		\label{alg:k_means}
+		\end{algorithm}
+
+		\paragraph{}
+		After this, Sum of Squared Error (SSE) is computed through the function in \textbf{sum\_of\_squares.py}. This is done by averaging the word frequency of every word in every cluster. Each data point in each cluster subtracts the average from itself, squares this value, and sums each value up. This equation is shown in Equation \ref{equ:SSE}.
+
+		\begin{equation}
+			SSE = \sum_{i=1}^{n} (y_i - \hat{y})^2
+			\label{equ:SSE}
+		\end{equation}
+
+	\section{Results}
+		\paragraph{}
+		Tables \ref{table:1}, \ref{table:2}, and \ref{table:3} show the SSE and Percent Correctly Clustered Together for each distance over three different trials. Table \ref{table:average} shows the average percent of success rate over each trial. Tables \ref{table:FR1}, \ref{table:FR2}, and \ref{table:FR3} show the same information but for when feature reduction is applied to the data set before K-means is applied. Table \ref{table:FRaverage} shows the average percent of success rate over each trail for the feature reduced data.
+
+		\begin{table}[H]
+			\centering
+			\resizebox{\textwidth}{!}{
+			\begin{tabular}{ |c|c|c| } 
+				 \hline
+				 Distance Formula 	& SSE		& Percent Correctly Clustered Together  \\ 
+				 \hline
+				 Euclidean 			& 116604	& 37\%  \\ 
+				 \hline
+				 Cosine				& 119612	& 49\% \\
+				 \hline
+				 Jacard				& 119434 	& 46\% \\
+				 \hline
+			\end{tabular}}
+			\caption{Correctness of each Distance without Feature Reduction, Trail 1}
+			\label{table:1}
+		\end{table}
+
+		\begin{table}[H]
+			\centering
+			\resizebox{\textwidth}{!}{
+			\begin{tabular}{ |c|c|c| } 
+				 \hline
+				 Distance Formula 	& SSE		& Percent Correctly Clustered Together  \\ 
+				 \hline
+				 Euclidean 			& 117072	& 53\%  \\ 
+				 \hline
+				 Cosine				& 121698	& 50\% \\
+				 \hline
+				 Jacard				& 117167 	& 55\% \\
+				 \hline
+			\end{tabular}}
+			\caption{Correctness of each Distance without Feature Reduction, Trail 2}
+			\label{table:2}
+		\end{table}
+
+		\begin{table}[H]
+			\centering
+			\resizebox{\textwidth}{!}{
+			\begin{tabular}{ |c|c|c| } 
+				 \hline
+				 Distance Formula 	& SSE		& Percent Correctly Clustered Together  \\ 
+				 \hline
+				 Euclidean 			& 120442	& 23\%  \\ 
+				 \hline
+				 Cosine				& 120267	& 53\% \\
+				 \hline
+				 Jacard				& 117446 	& 90\% \\
+				 \hline
+			\end{tabular}}
+			\caption{Correctness of each Distance without Feature Reduction, Trail 3}
+			\label{table:3}
+		\end{table}
+
+		\begin{table}[H]
+			\centering
+			\resizebox{\textwidth}{!}{
+			\begin{tabular}{ |c|c|c| } 
+				 \hline
+				 Distance Formula 	& Percent Correctly Clustered Together Average  \\ 
+				 \hline
+				 Euclidean 			& 37.67\%  \\ 
+				 \hline
+				 Cosine				& 50.67\% \\
+				 \hline
+				 Jacard			 	& 63.67\% \\
+				 \hline
+			\end{tabular}}
+			\caption{Average Percent Correct, without Feature Reduction}
+			\label{table:average}
+		\end{table}
+
+		\begin{table}[H]
+			\centering
+			\resizebox{\textwidth}{!}{
+			\begin{tabular}{ |c|c|c| } 
+				 \hline
+				 Distance Formula 	& SSE		& Percent Correctly Clustered Together  \\ 
+				 \hline
+				 Euclidean 			& 86966		& 55\%  \\ 
+				 \hline
+				 Cosine				& 91071		& 84\% \\
+				 \hline
+				 Jacard				& 90106 	& 87\% \\
+				 \hline
+			\end{tabular}}
+			\caption{Correctness of each Distance with Feature Reduction, Trail 1}
+			\label{table:FR1}
+		\end{table}
+
+		\begin{table}[H]
+			\centering
+			\resizebox{\textwidth}{!}{
+			\begin{tabular}{ |c|c|c| } 
+				 \hline
+				 Distance Formula 	& SSE		& Percent Correctly Clustered Together  \\ 
+				 \hline
+				 Euclidean 			& 86814		& 49\%  \\ 
+				 \hline
+				 Cosine				& 89783		& 90\% \\
+				 \hline
+				 Jacard				& 93848 	& 49\% \\
+				 \hline
+			\end{tabular}}
+			\caption{Correctness of each Distance with Feature Reduction, Trail 2}
+			\label{table:FR2}
+		\end{table}
+
+		\begin{table}[H]
+			\centering
+			\resizebox{\textwidth}{!}{
+			\begin{tabular}{ |c|c|c| } 
+				 \hline
+				 Distance Formula 	& SSE		& Percent Correctly Clustered Together  \\ 
+				 \hline
+				 Euclidean 			& 87128		& 54\%  \\ 
+				 \hline
+				 Cosine				& 90271		& 89\% \\
+				 \hline
+				 Jacard				& 89998 	& 58\% \\
+				 \hline
+			\end{tabular}}
+			\caption{Correctness of each Distance with Feature Reduction, Trail 3}
+			\label{table:FR3}
+		\end{table}
+
+		\begin{table}[H]
+			\centering
+			\resizebox{\textwidth}{!}{
+			\begin{tabular}{ |c|c|c| } 
+				 \hline
+				 Distance Formula 	& Percent Correctly Clustered Together Average  \\ 
+				 \hline
+				 Euclidean 			& 52.67\%  \\ 
+				 \hline
+				 Cosine				& 87.67\% \\
+				 \hline
+				 Jacard			 	& 64.67\% \\
+				 \hline
+			\end{tabular}}
+			\caption{Average Percent Correct, with Feature Reduction}
+			\label{table:FRaverage}
+		\end{table}
+
+	\section{Conclusion}
+		\paragraph{}
+		From previous assignments, it was expected that Cosine would out perform both Euclidean and Jacard distances. From the non-feature reduced data set, this is not seen. In fact, Jacard performed the best, followed by Cosine, and then Euclidean in last. All three of these distance functions performed poorly. With feature reduction however, Cosine did out perform the others by a decent margin. This is likely because Cosine deals with higher dimension data better than the other two distances. A possible explanation for feature reduction being better than the non-feature reduction set is that there were too many zeros in the data set. This made the data have very low variation, causing each distance metric to perform poorly. By having only attributes with a 80\% or greater variance, then articles with little variation from other clustered articles appear less similar. Only the major differences between articles remain. 
+
+
+\end{document}	
+
+
+
+
+
+

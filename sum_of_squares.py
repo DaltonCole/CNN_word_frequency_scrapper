@@ -1,6 +1,3 @@
-
-
-
 def SSE(articles, classes, NUM_CLUSTERS):
 	clusters = [[] for i in range(NUM_CLUSTERS)]
 
@@ -33,5 +30,6 @@ def SSE(articles, classes, NUM_CLUSTERS):
 			for word, average_word in zip(articles[article], average_values[clust]):
 				sum_of_squares[clust] += pow((float(word) - average_word), 2)
 
-	[print(i) for i in clusters]
-	[print(i) for i in sum_of_squares]
+	total_sum_of_squares = sum(sum_of_squares)
+
+	return total_sum_of_squares, sum_of_squares
