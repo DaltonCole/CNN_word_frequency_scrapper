@@ -1,0 +1,6301 @@
+Question: 14
+1
+######################### User based Collaborative Filtering MSD K = 1 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.3341
+MAE:  0.9860
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.3291
+MAE:  0.9794
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.3309
+MAE:  0.9820
+------------
+------------
+Mean RMSE: 1.3314
+Mean MAE : 0.9825
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.9860  0.9794  0.9820  0.9825  
+RMSE    1.3341  1.3291  1.3309  1.3314  
+
+######################### Item based Collaborative Filtering MSD K = 1 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.4354
+MAE:  1.0604
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.4363
+MAE:  1.0623
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.4357
+MAE:  1.0603
+------------
+------------
+Mean RMSE: 1.4358
+Mean MAE : 1.0610
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     1.0604  1.0623  1.0603  1.0610  
+RMSE    1.4354  1.4363  1.4357  1.4358  
+
+2
+######################### User based Collaborative Filtering MSD K = 2 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1576
+MAE:  0.8954
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1515
+MAE:  0.8882
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1539
+MAE:  0.8912
+------------
+------------
+Mean RMSE: 1.1543
+Mean MAE : 0.8916
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8954  0.8882  0.8912  0.8916  
+RMSE    1.1576  1.1515  1.1539  1.1543  
+
+######################### Item based Collaborative Filtering MSD K = 2 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.2410
+MAE:  0.9580
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.2339
+MAE:  0.9521
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.2366
+MAE:  0.9523
+------------
+------------
+Mean RMSE: 1.2372
+Mean MAE : 0.9541
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.9580  0.9521  0.9523  0.9541  
+RMSE    1.2410  1.2339  1.2366  1.2372  
+
+3
+######################### User based Collaborative Filtering MSD K = 3 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0908
+MAE:  0.8518
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0893
+MAE:  0.8509
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0896
+MAE:  0.8512
+------------
+------------
+Mean RMSE: 1.0899
+Mean MAE : 0.8513
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8518  0.8509  0.8512  0.8513  
+RMSE    1.0908  1.0893  1.0896  1.0899  
+
+######################### Item based Collaborative Filtering MSD K = 3 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1629
+MAE:  0.9092
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1604
+MAE:  0.9070
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1528
+MAE:  0.9002
+------------
+------------
+Mean RMSE: 1.1587
+Mean MAE : 0.9055
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.9092  0.9070  0.9002  0.9055  
+RMSE    1.1629  1.1604  1.1528  1.1587  
+
+4
+######################### User based Collaborative Filtering MSD K = 4 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0619
+MAE:  0.8321
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0573
+MAE:  0.8297
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0573
+MAE:  0.8302
+------------
+------------
+Mean RMSE: 1.0588
+Mean MAE : 0.8306
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8321  0.8297  0.8302  0.8306  
+RMSE    1.0619  1.0573  1.0573  1.0588  
+
+######################### Item based Collaborative Filtering MSD K = 4 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1186
+MAE:  0.8798
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1189
+MAE:  0.8796
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1087
+MAE:  0.8720
+------------
+------------
+Mean RMSE: 1.1154
+Mean MAE : 0.8771
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8798  0.8796  0.8720  0.8771  
+RMSE    1.1186  1.1189  1.1087  1.1154  
+
+5
+######################### User based Collaborative Filtering MSD K = 5 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0423
+MAE:  0.8191
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0380
+MAE:  0.8163
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0375
+MAE:  0.8166
+------------
+------------
+Mean RMSE: 1.0392
+Mean MAE : 0.8173
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8191  0.8163  0.8166  0.8173  
+RMSE    1.0423  1.0380  1.0375  1.0392  
+
+######################### Item based Collaborative Filtering MSD K = 5 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0888
+MAE:  0.8581
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0903
+MAE:  0.8591
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0803
+MAE:  0.8524
+------------
+------------
+Mean RMSE: 1.0864
+Mean MAE : 0.8565
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8581  0.8591  0.8524  0.8565  
+RMSE    1.0888  1.0903  1.0803  1.0864  
+
+6
+######################### User based Collaborative Filtering MSD K = 6 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0279
+MAE:  0.8087
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0256
+MAE:  0.8077
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0229
+MAE:  0.8064
+------------
+------------
+Mean RMSE: 1.0254
+Mean MAE : 0.8076
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8087  0.8077  0.8064  0.8076  
+RMSE    1.0279  1.0256  1.0229  1.0254  
+
+######################### Item based Collaborative Filtering MSD K = 6 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0672
+MAE:  0.8417
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0713
+MAE:  0.8451
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0601
+MAE:  0.8380
+------------
+------------
+Mean RMSE: 1.0662
+Mean MAE : 0.8416
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8417  0.8451  0.8380  0.8416  
+RMSE    1.0672  1.0713  1.0601  1.0662  
+
+7
+######################### User based Collaborative Filtering MSD K = 7 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0185
+MAE:  0.8020
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0161
+MAE:  0.8010
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0143
+MAE:  0.8004
+------------
+------------
+Mean RMSE: 1.0163
+Mean MAE : 0.8011
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8020  0.8010  0.8004  0.8011  
+RMSE    1.0185  1.0161  1.0143  1.0163  
+
+######################### Item based Collaborative Filtering MSD K = 7 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0524
+MAE:  0.8309
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0568
+MAE:  0.8346
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0456
+MAE:  0.8276
+------------
+------------
+Mean RMSE: 1.0516
+Mean MAE : 0.8310
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8309  0.8346  0.8276  0.8310  
+RMSE    1.0524  1.0568  1.0456  1.0516  
+
+8
+######################### User based Collaborative Filtering MSD K = 8 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0117
+MAE:  0.7969
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0096
+MAE:  0.7962
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0077
+MAE:  0.7948
+------------
+------------
+Mean RMSE: 1.0097
+Mean MAE : 0.7960
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7969  0.7962  0.7948  0.7960  
+RMSE    1.0117  1.0096  1.0077  1.0097  
+
+######################### Item based Collaborative Filtering MSD K = 8 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0405
+MAE:  0.8222
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0455
+MAE:  0.8263
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0344
+MAE:  0.8192
+------------
+------------
+Mean RMSE: 1.0401
+Mean MAE : 0.8225
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8222  0.8263  0.8192  0.8225  
+RMSE    1.0405  1.0455  1.0344  1.0401  
+
+9
+######################### User based Collaborative Filtering MSD K = 9 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0067
+MAE:  0.7928
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0050
+MAE:  0.7929
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0026
+MAE:  0.7911
+------------
+------------
+Mean RMSE: 1.0047
+Mean MAE : 0.7922
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7928  0.7929  0.7911  0.7922  
+RMSE    1.0067  1.0050  1.0026  1.0047  
+
+######################### Item based Collaborative Filtering MSD K = 9 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0319
+MAE:  0.8158
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0356
+MAE:  0.8188
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0264
+MAE:  0.8132
+------------
+------------
+Mean RMSE: 1.0313
+Mean MAE : 0.8159
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8158  0.8188  0.8132  0.8159  
+RMSE    1.0319  1.0356  1.0264  1.0313  
+
+10
+######################### User based Collaborative Filtering MSD K = 10 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0021
+MAE:  0.7893
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0013
+MAE:  0.7898
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9977
+MAE:  0.7870
+------------
+------------
+Mean RMSE: 1.0003
+Mean MAE : 0.7887
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7893  0.7898  0.7870  0.7887  
+RMSE    1.0021  1.0013  0.9977  1.0003  
+
+######################### Item based Collaborative Filtering MSD K = 10 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0251
+MAE:  0.8104
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0291
+MAE:  0.8135
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+MAE:  0.8075
+------------
+------------
+Mean RMSE: 1.0245
+Mean MAE : 0.8105
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8104  0.8135  0.8075  0.8105  
+RMSE    1.0251  1.0291  1.0192  1.0245  
+
+11
+######################### User based Collaborative Filtering MSD K = 11 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9986
+MAE:  0.7867
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9992
+MAE:  0.7878
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9953
+MAE:  0.7855
+------------
+------------
+Mean RMSE: 0.9977
+Mean MAE : 0.7867
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7867  0.7878  0.7855  0.7867  
+RMSE    0.9986  0.9992  0.9953  0.9977  
+
+######################### Item based Collaborative Filtering MSD K = 11 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+MAE:  0.8052
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0225
+MAE:  0.8088
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0130
+MAE:  0.8026
+------------
+------------
+Mean RMSE: 1.0183
+Mean MAE : 0.8055
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8052  0.8088  0.8026  0.8055  
+RMSE    1.0192  1.0225  1.0130  1.0183  
+
+12
+######################### User based Collaborative Filtering MSD K = 12 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9960
+MAE:  0.7849
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9972
+MAE:  0.7863
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9930
+MAE:  0.7837
+------------
+------------
+Mean RMSE: 0.9954
+Mean MAE : 0.7850
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7849  0.7863  0.7837  0.7850  
+RMSE    0.9960  0.9972  0.9930  0.9954  
+
+######################### Item based Collaborative Filtering MSD K = 12 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0146
+MAE:  0.8016
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0178
+MAE:  0.8050
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0087
+MAE:  0.7992
+------------
+------------
+Mean RMSE: 1.0137
+Mean MAE : 0.8020
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.8016  0.8050  0.7992  0.8020  
+RMSE    1.0146  1.0178  1.0087  1.0137  
+
+13
+######################### User based Collaborative Filtering MSD K = 13 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9939
+MAE:  0.7834
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9957
+MAE:  0.7855
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9912
+MAE:  0.7828
+------------
+------------
+Mean RMSE: 0.9936
+Mean MAE : 0.7839
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7834  0.7855  0.7828  0.7839  
+RMSE    0.9939  0.9957  0.9912  0.9936  
+
+######################### Item based Collaborative Filtering MSD K = 13 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0102
+MAE:  0.7980
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0140
+MAE:  0.8019
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0046
+MAE:  0.7962
+------------
+------------
+Mean RMSE: 1.0096
+Mean MAE : 0.7987
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7980  0.8019  0.7962  0.7987  
+RMSE    1.0102  1.0140  1.0046  1.0096  
+
+14
+######################### User based Collaborative Filtering MSD K = 14 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9922
+MAE:  0.7821
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9944
+MAE:  0.7843
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9899
+MAE:  0.7820
+------------
+------------
+Mean RMSE: 0.9922
+Mean MAE : 0.7828
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7821  0.7843  0.7820  0.7828  
+RMSE    0.9922  0.9944  0.9899  0.9922  
+
+######################### Item based Collaborative Filtering MSD K = 14 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0063
+MAE:  0.7950
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0110
+MAE:  0.7999
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0023
+MAE:  0.7945
+------------
+------------
+Mean RMSE: 1.0066
+Mean MAE : 0.7965
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7950  0.7999  0.7945  0.7965  
+RMSE    1.0063  1.0110  1.0023  1.0066  
+
+15
+######################### User based Collaborative Filtering MSD K = 15 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9908
+MAE:  0.7811
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9936
+MAE:  0.7839
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9892
+MAE:  0.7814
+------------
+------------
+Mean RMSE: 0.9912
+Mean MAE : 0.7821
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7811  0.7839  0.7814  0.7821  
+RMSE    0.9908  0.9936  0.9892  0.9912  
+
+######################### Item based Collaborative Filtering MSD K = 15 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0031
+MAE:  0.7928
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0079
+MAE:  0.7973
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9987
+MAE:  0.7920
+------------
+------------
+Mean RMSE: 1.0033
+Mean MAE : 0.7940
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7928  0.7973  0.7920  0.7940  
+RMSE    1.0031  1.0079  0.9987  1.0033  
+
+16
+######################### User based Collaborative Filtering MSD K = 16 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9897
+MAE:  0.7802
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9927
+MAE:  0.7831
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9883
+MAE:  0.7806
+------------
+------------
+Mean RMSE: 0.9902
+Mean MAE : 0.7813
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7802  0.7831  0.7806  0.7813  
+RMSE    0.9897  0.9927  0.9883  0.9902  
+
+######################### Item based Collaborative Filtering MSD K = 16 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0004
+MAE:  0.7907
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0054
+MAE:  0.7953
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9965
+MAE:  0.7902
+------------
+------------
+Mean RMSE: 1.0008
+Mean MAE : 0.7921
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7907  0.7953  0.7902  0.7921  
+RMSE    1.0004  1.0054  0.9965  1.0008  
+
+17
+######################### User based Collaborative Filtering MSD K = 17 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9888
+MAE:  0.7793
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9920
+MAE:  0.7828
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9874
+MAE:  0.7796
+------------
+------------
+Mean RMSE: 0.9894
+Mean MAE : 0.7805
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7793  0.7828  0.7796  0.7805  
+RMSE    0.9888  0.9920  0.9874  0.9894  
+
+######################### Item based Collaborative Filtering MSD K = 17 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9986
+MAE:  0.7894
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0034
+MAE:  0.7939
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9943
+MAE:  0.7884
+------------
+------------
+Mean RMSE: 0.9987
+Mean MAE : 0.7906
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7894  0.7939  0.7884  0.7906  
+RMSE    0.9986  1.0034  0.9943  0.9987  
+
+18
+######################### User based Collaborative Filtering MSD K = 18 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9882
+MAE:  0.7789
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9917
+MAE:  0.7827
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9869
+MAE:  0.7792
+------------
+------------
+Mean RMSE: 0.9889
+Mean MAE : 0.7803
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7789  0.7827  0.7792  0.7803  
+RMSE    0.9882  0.9917  0.9869  0.9889  
+
+######################### Item based Collaborative Filtering MSD K = 18 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9970
+MAE:  0.7882
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0013
+MAE:  0.7921
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9923
+MAE:  0.7869
+------------
+------------
+Mean RMSE: 0.9968
+Mean MAE : 0.7891
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7882  0.7921  0.7869  0.7891  
+RMSE    0.9970  1.0013  0.9923  0.9968  
+
+19
+######################### User based Collaborative Filtering MSD K = 19 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9872
+MAE:  0.7781
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9913
+MAE:  0.7826
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9867
+MAE:  0.7792
+------------
+------------
+Mean RMSE: 0.9884
+Mean MAE : 0.7800
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7781  0.7826  0.7792  0.7800  
+RMSE    0.9872  0.9913  0.9867  0.9884  
+
+######################### Item based Collaborative Filtering MSD K = 19 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9956
+MAE:  0.7873
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9999
+MAE:  0.7909
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9911
+MAE:  0.7860
+------------
+------------
+Mean RMSE: 0.9955
+Mean MAE : 0.7881
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7873  0.7909  0.7860  0.7881  
+RMSE    0.9956  0.9999  0.9911  0.9955  
+
+20
+######################### User based Collaborative Filtering MSD K = 20 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9867
+MAE:  0.7776
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9908
+MAE:  0.7823
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9862
+MAE:  0.7790
+------------
+------------
+Mean RMSE: 0.9879
+Mean MAE : 0.7796
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7776  0.7823  0.7790  0.7796  
+RMSE    0.9867  0.9908  0.9862  0.9879  
+
+######################### Item based Collaborative Filtering MSD K = 20 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9941
+MAE:  0.7860
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9984
+MAE:  0.7897
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9898
+MAE:  0.7847
+------------
+------------
+Mean RMSE: 0.9941
+Mean MAE : 0.7868
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7860  0.7897  0.7847  0.7868  
+RMSE    0.9941  0.9984  0.9898  0.9941  
+
+21
+######################### User based Collaborative Filtering MSD K = 21 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9863
+MAE:  0.7774
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9906
+MAE:  0.7824
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9858
+MAE:  0.7789
+------------
+------------
+Mean RMSE: 0.9876
+Mean MAE : 0.7796
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7774  0.7824  0.7789  0.7796  
+RMSE    0.9863  0.9906  0.9858  0.9876  
+
+######################### Item based Collaborative Filtering MSD K = 21 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9927
+MAE:  0.7849
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9970
+MAE:  0.7887
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9885
+MAE:  0.7839
+------------
+------------
+Mean RMSE: 0.9927
+Mean MAE : 0.7858
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7849  0.7887  0.7839  0.7858  
+RMSE    0.9927  0.9970  0.9885  0.9927  
+
+22
+######################### User based Collaborative Filtering MSD K = 22 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9859
+MAE:  0.7772
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9902
+MAE:  0.7821
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9857
+MAE:  0.7790
+------------
+------------
+Mean RMSE: 0.9873
+Mean MAE : 0.7794
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7772  0.7821  0.7790  0.7794  
+RMSE    0.9859  0.9902  0.9857  0.9873  
+
+######################### Item based Collaborative Filtering MSD K = 22 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9916
+MAE:  0.7841
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9958
+MAE:  0.7877
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9873
+MAE:  0.7828
+------------
+------------
+Mean RMSE: 0.9915
+Mean MAE : 0.7849
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7841  0.7877  0.7828  0.7849  
+RMSE    0.9916  0.9958  0.9873  0.9915  
+
+23
+######################### User based Collaborative Filtering MSD K = 23 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9855
+MAE:  0.7771
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9900
+MAE:  0.7821
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9856
+MAE:  0.7790
+------------
+------------
+Mean RMSE: 0.9870
+Mean MAE : 0.7794
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7771  0.7821  0.7790  0.7794  
+RMSE    0.9855  0.9900  0.9856  0.9870  
+
+######################### Item based Collaborative Filtering MSD K = 23 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9908
+MAE:  0.7836
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9945
+MAE:  0.7870
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9867
+MAE:  0.7824
+------------
+------------
+Mean RMSE: 0.9907
+Mean MAE : 0.7843
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7836  0.7870  0.7824  0.7843  
+RMSE    0.9908  0.9945  0.9867  0.9907  
+
+24
+######################### User based Collaborative Filtering MSD K = 24 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9853
+MAE:  0.7769
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9900
+MAE:  0.7822
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9854
+MAE:  0.7789
+------------
+------------
+Mean RMSE: 0.9869
+Mean MAE : 0.7793
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7769  0.7822  0.7789  0.7793  
+RMSE    0.9853  0.9900  0.9854  0.9869  
+
+######################### Item based Collaborative Filtering MSD K = 24 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9899
+MAE:  0.7828
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9937
+MAE:  0.7862
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9857
+MAE:  0.7818
+------------
+------------
+Mean RMSE: 0.9898
+Mean MAE : 0.7836
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7828  0.7862  0.7818  0.7836  
+RMSE    0.9899  0.9937  0.9857  0.9898  
+
+25
+######################### User based Collaborative Filtering MSD K = 25 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9851
+MAE:  0.7768
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9900
+MAE:  0.7822
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9852
+MAE:  0.7789
+------------
+------------
+Mean RMSE: 0.9868
+Mean MAE : 0.7793
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7768  0.7822  0.7789  0.7793  
+RMSE    0.9851  0.9900  0.9852  0.9868  
+
+######################### Item based Collaborative Filtering MSD K = 25 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9890
+MAE:  0.7820
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9930
+MAE:  0.7856
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9849
+MAE:  0.7811
+------------
+------------
+Mean RMSE: 0.9890
+Mean MAE : 0.7829
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7820  0.7856  0.7811  0.7829  
+RMSE    0.9890  0.9930  0.9849  0.9890  
+
+26
+######################### User based Collaborative Filtering MSD K = 26 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9849
+MAE:  0.7767
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9901
+MAE:  0.7823
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9854
+MAE:  0.7791
+------------
+------------
+Mean RMSE: 0.9868
+Mean MAE : 0.7794
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7767  0.7823  0.7791  0.7794  
+RMSE    0.9849  0.9901  0.9854  0.9868  
+
+######################### Item based Collaborative Filtering MSD K = 26 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9884
+MAE:  0.7816
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9926
+MAE:  0.7854
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9843
+MAE:  0.7807
+------------
+------------
+Mean RMSE: 0.9884
+Mean MAE : 0.7825
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7816  0.7854  0.7807  0.7825  
+RMSE    0.9884  0.9926  0.9843  0.9884  
+
+27
+######################### User based Collaborative Filtering MSD K = 27 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9848
+MAE:  0.7766
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9902
+MAE:  0.7825
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9852
+MAE:  0.7791
+------------
+------------
+Mean RMSE: 0.9868
+Mean MAE : 0.7794
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7766  0.7825  0.7791  0.7794  
+RMSE    0.9848  0.9902  0.9852  0.9868  
+
+######################### Item based Collaborative Filtering MSD K = 27 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9880
+MAE:  0.7813
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9919
+MAE:  0.7849
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9839
+MAE:  0.7803
+------------
+------------
+Mean RMSE: 0.9879
+Mean MAE : 0.7822
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7813  0.7849  0.7803  0.7822  
+RMSE    0.9880  0.9919  0.9839  0.9879  
+
+28
+######################### User based Collaborative Filtering MSD K = 28 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9847
+MAE:  0.7766
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9903
+MAE:  0.7827
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9852
+MAE:  0.7792
+------------
+------------
+Mean RMSE: 0.9867
+Mean MAE : 0.7795
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7766  0.7827  0.7792  0.7795  
+RMSE    0.9847  0.9903  0.9852  0.9867  
+
+######################### Item based Collaborative Filtering MSD K = 28 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9874
+MAE:  0.7808
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9915
+MAE:  0.7847
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9832
+MAE:  0.7797
+------------
+------------
+Mean RMSE: 0.9874
+Mean MAE : 0.7817
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7808  0.7847  0.7797  0.7817  
+RMSE    0.9874  0.9915  0.9832  0.9874  
+
+29
+######################### User based Collaborative Filtering MSD K = 29 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9848
+MAE:  0.7767
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9905
+MAE:  0.7830
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9852
+MAE:  0.7794
+------------
+------------
+Mean RMSE: 0.9868
+Mean MAE : 0.7797
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7767  0.7830  0.7794  0.7797  
+RMSE    0.9848  0.9905  0.9852  0.9868  
+
+######################### Item based Collaborative Filtering MSD K = 29 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9869
+MAE:  0.7805
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9911
+MAE:  0.7842
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9828
+MAE:  0.7794
+------------
+------------
+Mean RMSE: 0.9869
+Mean MAE : 0.7814
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7805  0.7842  0.7794  0.7814  
+RMSE    0.9869  0.9911  0.9828  0.9869  
+
+30
+######################### User based Collaborative Filtering MSD K = 30 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9849
+MAE:  0.7768
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9907
+MAE:  0.7833
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9855
+MAE:  0.7796
+------------
+------------
+Mean RMSE: 0.9870
+Mean MAE : 0.7799
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7768  0.7833  0.7796  0.7799  
+RMSE    0.9849  0.9907  0.9855  0.9870  
+
+######################### Item based Collaborative Filtering MSD K = 30 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9865
+MAE:  0.7804
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9907
+MAE:  0.7841
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9824
+MAE:  0.7791
+------------
+------------
+Mean RMSE: 0.9866
+Mean MAE : 0.7812
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7804  0.7841  0.7791  0.7812  
+RMSE    0.9865  0.9907  0.9824  0.9866  
+
+31
+######################### User based Collaborative Filtering MSD K = 31 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9852
+MAE:  0.7770
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9906
+MAE:  0.7833
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9856
+MAE:  0.7799
+------------
+------------
+Mean RMSE: 0.9872
+Mean MAE : 0.7800
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7770  0.7833  0.7799  0.7800  
+RMSE    0.9852  0.9906  0.9856  0.9872  
+
+######################### Item based Collaborative Filtering MSD K = 31 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9862
+MAE:  0.7802
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9904
+MAE:  0.7840
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9820
+MAE:  0.7788
+------------
+------------
+Mean RMSE: 0.9862
+Mean MAE : 0.7810
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7802  0.7840  0.7788  0.7810  
+RMSE    0.9862  0.9904  0.9820  0.9862  
+
+32
+######################### User based Collaborative Filtering MSD K = 32 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9852
+MAE:  0.7771
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9908
+MAE:  0.7835
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9859
+MAE:  0.7801
+------------
+------------
+Mean RMSE: 0.9873
+Mean MAE : 0.7803
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7771  0.7835  0.7801  0.7803  
+RMSE    0.9852  0.9908  0.9859  0.9873  
+
+######################### Item based Collaborative Filtering MSD K = 32 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9862
+MAE:  0.7802
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9901
+MAE:  0.7836
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9816
+MAE:  0.7786
+------------
+------------
+Mean RMSE: 0.9860
+Mean MAE : 0.7808
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7802  0.7836  0.7786  0.7808  
+RMSE    0.9862  0.9901  0.9816  0.9860  
+
+33
+######################### User based Collaborative Filtering MSD K = 33 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9852
+MAE:  0.7771
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9909
+MAE:  0.7838
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9860
+MAE:  0.7802
+------------
+------------
+Mean RMSE: 0.9874
+Mean MAE : 0.7804
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7771  0.7838  0.7802  0.7804  
+RMSE    0.9852  0.9909  0.9860  0.9874  
+
+######################### Item based Collaborative Filtering MSD K = 33 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9860
+MAE:  0.7802
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9897
+MAE:  0.7836
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9815
+MAE:  0.7785
+------------
+------------
+Mean RMSE: 0.9857
+Mean MAE : 0.7808
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7802  0.7836  0.7785  0.7808  
+RMSE    0.9860  0.9897  0.9815  0.9857  
+
+34
+######################### User based Collaborative Filtering MSD K = 34 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9853
+MAE:  0.7774
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9911
+MAE:  0.7840
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9860
+MAE:  0.7803
+------------
+------------
+Mean RMSE: 0.9875
+Mean MAE : 0.7805
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7774  0.7840  0.7803  0.7805  
+RMSE    0.9853  0.9911  0.9860  0.9875  
+
+######################### Item based Collaborative Filtering MSD K = 34 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9858
+MAE:  0.7801
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9896
+MAE:  0.7834
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9814
+MAE:  0.7786
+------------
+------------
+Mean RMSE: 0.9856
+Mean MAE : 0.7807
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7801  0.7834  0.7786  0.7807  
+RMSE    0.9858  0.9896  0.9814  0.9856  
+
+35
+######################### User based Collaborative Filtering MSD K = 35 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9855
+MAE:  0.7776
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9915
+MAE:  0.7842
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9862
+MAE:  0.7804
+------------
+------------
+Mean RMSE: 0.9877
+Mean MAE : 0.7807
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7776  0.7842  0.7804  0.7807  
+RMSE    0.9855  0.9915  0.9862  0.9877  
+
+######################### Item based Collaborative Filtering MSD K = 35 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9857
+MAE:  0.7799
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9894
+MAE:  0.7834
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9814
+MAE:  0.7786
+------------
+------------
+Mean RMSE: 0.9855
+Mean MAE : 0.7806
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7799  0.7834  0.7786  0.7806  
+RMSE    0.9857  0.9894  0.9814  0.9855  
+
+36
+######################### User based Collaborative Filtering MSD K = 36 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9856
+MAE:  0.7776
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9918
+MAE:  0.7845
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9863
+MAE:  0.7806
+------------
+------------
+Mean RMSE: 0.9879
+Mean MAE : 0.7809
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7776  0.7845  0.7806  0.7809  
+RMSE    0.9856  0.9918  0.9863  0.9879  
+
+######################### Item based Collaborative Filtering MSD K = 36 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9856
+MAE:  0.7798
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9894
+MAE:  0.7835
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9814
+MAE:  0.7786
+------------
+------------
+Mean RMSE: 0.9855
+Mean MAE : 0.7806
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7798  0.7835  0.7786  0.7806  
+RMSE    0.9856  0.9894  0.9814  0.9855  
+
+37
+######################### User based Collaborative Filtering MSD K = 37 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9860
+MAE:  0.7780
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9920
+MAE:  0.7848
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9864
+MAE:  0.7805
+------------
+------------
+Mean RMSE: 0.9881
+Mean MAE : 0.7811
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7780  0.7848  0.7805  0.7811  
+RMSE    0.9860  0.9920  0.9864  0.9881  
+
+######################### Item based Collaborative Filtering MSD K = 37 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9856
+MAE:  0.7800
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9893
+MAE:  0.7835
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9815
+MAE:  0.7787
+------------
+------------
+Mean RMSE: 0.9855
+Mean MAE : 0.7807
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7800  0.7835  0.7787  0.7807  
+RMSE    0.9856  0.9893  0.9815  0.9855  
+
+38
+######################### User based Collaborative Filtering MSD K = 38 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9862
+MAE:  0.7782
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9922
+MAE:  0.7850
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9866
+MAE:  0.7808
+------------
+------------
+Mean RMSE: 0.9884
+Mean MAE : 0.7814
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7782  0.7850  0.7808  0.7814  
+RMSE    0.9862  0.9922  0.9866  0.9884  
+
+######################### Item based Collaborative Filtering MSD K = 38 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9856
+MAE:  0.7800
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9893
+MAE:  0.7835
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9817
+MAE:  0.7789
+------------
+------------
+Mean RMSE: 0.9855
+Mean MAE : 0.7808
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7800  0.7835  0.7789  0.7808  
+RMSE    0.9856  0.9893  0.9817  0.9855  
+
+39
+######################### User based Collaborative Filtering MSD K = 39 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9863
+MAE:  0.7784
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9925
+MAE:  0.7853
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9866
+MAE:  0.7808
+------------
+------------
+Mean RMSE: 0.9885
+Mean MAE : 0.7815
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7784  0.7853  0.7808  0.7815  
+RMSE    0.9863  0.9925  0.9866  0.9885  
+
+######################### Item based Collaborative Filtering MSD K = 39 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9857
+MAE:  0.7800
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9893
+MAE:  0.7836
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9817
+MAE:  0.7791
+------------
+------------
+Mean RMSE: 0.9856
+Mean MAE : 0.7809
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7800  0.7836  0.7791  0.7809  
+RMSE    0.9857  0.9893  0.9817  0.9856  
+
+40
+######################### User based Collaborative Filtering MSD K = 40 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9867
+MAE:  0.7787
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9927
+MAE:  0.7854
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9869
+MAE:  0.7811
+------------
+------------
+Mean RMSE: 0.9887
+Mean MAE : 0.7817
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7787  0.7854  0.7811  0.7817  
+RMSE    0.9867  0.9927  0.9869  0.9887  
+
+######################### Item based Collaborative Filtering MSD K = 40 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9858
+MAE:  0.7800
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9893
+MAE:  0.7836
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9818
+MAE:  0.7791
+------------
+------------
+Mean RMSE: 0.9856
+Mean MAE : 0.7809
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7800  0.7836  0.7791  0.7809  
+RMSE    0.9858  0.9893  0.9818  0.9856  
+
+41
+######################### User based Collaborative Filtering MSD K = 41 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9868
+MAE:  0.7789
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9929
+MAE:  0.7857
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9871
+MAE:  0.7813
+------------
+------------
+Mean RMSE: 0.9889
+Mean MAE : 0.7819
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7789  0.7857  0.7813  0.7819  
+RMSE    0.9868  0.9929  0.9871  0.9889  
+
+######################### Item based Collaborative Filtering MSD K = 41 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9859
+MAE:  0.7802
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9894
+MAE:  0.7836
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9819
+MAE:  0.7793
+------------
+------------
+Mean RMSE: 0.9857
+Mean MAE : 0.7810
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7802  0.7836  0.7793  0.7810  
+RMSE    0.9859  0.9894  0.9819  0.9857  
+
+42
+######################### User based Collaborative Filtering MSD K = 42 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9869
+MAE:  0.7790
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9931
+MAE:  0.7859
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9874
+MAE:  0.7815
+------------
+------------
+Mean RMSE: 0.9892
+Mean MAE : 0.7821
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7790  0.7859  0.7815  0.7821  
+RMSE    0.9869  0.9931  0.9874  0.9892  
+
+######################### Item based Collaborative Filtering MSD K = 42 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9860
+MAE:  0.7803
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9895
+MAE:  0.7837
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9820
+MAE:  0.7794
+------------
+------------
+Mean RMSE: 0.9858
+Mean MAE : 0.7811
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7803  0.7837  0.7794  0.7811  
+RMSE    0.9860  0.9895  0.9820  0.9858  
+
+43
+######################### User based Collaborative Filtering MSD K = 43 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9871
+MAE:  0.7793
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9933
+MAE:  0.7862
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9878
+MAE:  0.7818
+------------
+------------
+Mean RMSE: 0.9894
+Mean MAE : 0.7824
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7793  0.7862  0.7818  0.7824  
+RMSE    0.9871  0.9933  0.9878  0.9894  
+
+######################### Item based Collaborative Filtering MSD K = 43 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9861
+MAE:  0.7804
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9895
+MAE:  0.7838
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9821
+MAE:  0.7795
+------------
+------------
+Mean RMSE: 0.9859
+Mean MAE : 0.7812
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7804  0.7838  0.7795  0.7812  
+RMSE    0.9861  0.9895  0.9821  0.9859  
+
+44
+######################### User based Collaborative Filtering MSD K = 44 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9873
+MAE:  0.7795
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9934
+MAE:  0.7863
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9881
+MAE:  0.7821
+------------
+------------
+Mean RMSE: 0.9896
+Mean MAE : 0.7826
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7795  0.7863  0.7821  0.7826  
+RMSE    0.9873  0.9934  0.9881  0.9896  
+
+######################### Item based Collaborative Filtering MSD K = 44 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9862
+MAE:  0.7804
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9896
+MAE:  0.7839
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9822
+MAE:  0.7796
+------------
+------------
+Mean RMSE: 0.9860
+Mean MAE : 0.7813
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7804  0.7839  0.7796  0.7813  
+RMSE    0.9862  0.9896  0.9822  0.9860  
+
+45
+######################### User based Collaborative Filtering MSD K = 45 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9874
+MAE:  0.7796
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9935
+MAE:  0.7865
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9882
+MAE:  0.7823
+------------
+------------
+Mean RMSE: 0.9897
+Mean MAE : 0.7828
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7796  0.7865  0.7823  0.7828  
+RMSE    0.9874  0.9935  0.9882  0.9897  
+
+######################### Item based Collaborative Filtering MSD K = 45 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9862
+MAE:  0.7806
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9896
+MAE:  0.7840
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9824
+MAE:  0.7798
+------------
+------------
+Mean RMSE: 0.9861
+Mean MAE : 0.7815
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7806  0.7840  0.7798  0.7815  
+RMSE    0.9862  0.9896  0.9824  0.9861  
+
+46
+######################### User based Collaborative Filtering MSD K = 46 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9876
+MAE:  0.7798
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9937
+MAE:  0.7866
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9884
+MAE:  0.7824
+------------
+------------
+Mean RMSE: 0.9899
+Mean MAE : 0.7830
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7798  0.7866  0.7824  0.7830  
+RMSE    0.9876  0.9937  0.9884  0.9899  
+
+######################### Item based Collaborative Filtering MSD K = 46 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9863
+MAE:  0.7807
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9897
+MAE:  0.7841
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9825
+MAE:  0.7800
+------------
+------------
+Mean RMSE: 0.9862
+Mean MAE : 0.7816
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7807  0.7841  0.7800  0.7816  
+RMSE    0.9863  0.9897  0.9825  0.9862  
+
+47
+######################### User based Collaborative Filtering MSD K = 47 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9877
+MAE:  0.7799
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9939
+MAE:  0.7867
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9886
+MAE:  0.7826
+------------
+------------
+Mean RMSE: 0.9901
+Mean MAE : 0.7831
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7799  0.7867  0.7826  0.7831  
+RMSE    0.9877  0.9939  0.9886  0.9901  
+
+######################### Item based Collaborative Filtering MSD K = 47 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9866
+MAE:  0.7810
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9898
+MAE:  0.7843
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9827
+MAE:  0.7801
+------------
+------------
+Mean RMSE: 0.9864
+Mean MAE : 0.7818
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7810  0.7843  0.7801  0.7818  
+RMSE    0.9866  0.9898  0.9827  0.9864  
+
+48
+######################### User based Collaborative Filtering MSD K = 48 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9881
+MAE:  0.7803
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9942
+MAE:  0.7870
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9890
+MAE:  0.7829
+------------
+------------
+Mean RMSE: 0.9904
+Mean MAE : 0.7834
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7803  0.7870  0.7829  0.7834  
+RMSE    0.9881  0.9942  0.9890  0.9904  
+
+######################### Item based Collaborative Filtering MSD K = 48 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9866
+MAE:  0.7810
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9899
+MAE:  0.7844
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9828
+MAE:  0.7802
+------------
+------------
+Mean RMSE: 0.9864
+Mean MAE : 0.7819
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7810  0.7844  0.7802  0.7819  
+RMSE    0.9866  0.9899  0.9828  0.9864  
+
+49
+######################### User based Collaborative Filtering MSD K = 49 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9882
+MAE:  0.7805
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9945
+MAE:  0.7873
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9891
+MAE:  0.7831
+------------
+------------
+Mean RMSE: 0.9906
+Mean MAE : 0.7836
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7805  0.7873  0.7831  0.7836  
+RMSE    0.9882  0.9945  0.9891  0.9906  
+
+######################### Item based Collaborative Filtering MSD K = 49 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9867
+MAE:  0.7811
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9900
+MAE:  0.7845
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9828
+MAE:  0.7803
+------------
+------------
+Mean RMSE: 0.9865
+Mean MAE : 0.7820
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7811  0.7845  0.7803  0.7820  
+RMSE    0.9867  0.9900  0.9828  0.9865  
+
+50
+######################### User based Collaborative Filtering MSD K = 50 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9884
+MAE:  0.7807
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9948
+MAE:  0.7877
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9894
+MAE:  0.7834
+------------
+------------
+Mean RMSE: 0.9908
+Mean MAE : 0.7839
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7807  0.7877  0.7834  0.7839  
+RMSE    0.9884  0.9948  0.9894  0.9908  
+
+######################### Item based Collaborative Filtering MSD K = 50 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9868
+MAE:  0.7812
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9901
+MAE:  0.7846
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9830
+MAE:  0.7805
+------------
+------------
+Mean RMSE: 0.9866
+Mean MAE : 0.7821
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7812  0.7846  0.7805  0.7821  
+RMSE    0.9868  0.9901  0.9830  0.9866  
+
+51
+######################### User based Collaborative Filtering MSD K = 51 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9887
+MAE:  0.7810
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9950
+MAE:  0.7878
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9896
+MAE:  0.7836
+------------
+------------
+Mean RMSE: 0.9911
+Mean MAE : 0.7841
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7810  0.7878  0.7836  0.7841  
+RMSE    0.9887  0.9950  0.9896  0.9911  
+
+######################### Item based Collaborative Filtering MSD K = 51 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9869
+MAE:  0.7814
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9903
+MAE:  0.7848
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9831
+MAE:  0.7807
+------------
+------------
+Mean RMSE: 0.9868
+Mean MAE : 0.7823
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7814  0.7848  0.7807  0.7823  
+RMSE    0.9869  0.9903  0.9831  0.9868  
+
+52
+######################### User based Collaborative Filtering MSD K = 52 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9890
+MAE:  0.7813
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9953
+MAE:  0.7881
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9897
+MAE:  0.7837
+------------
+------------
+Mean RMSE: 0.9914
+Mean MAE : 0.7844
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7813  0.7881  0.7837  0.7844  
+RMSE    0.9890  0.9953  0.9897  0.9914  
+
+######################### Item based Collaborative Filtering MSD K = 52 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9870
+MAE:  0.7815
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9904
+MAE:  0.7849
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9833
+MAE:  0.7809
+------------
+------------
+Mean RMSE: 0.9869
+Mean MAE : 0.7825
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7815  0.7849  0.7809  0.7825  
+RMSE    0.9870  0.9904  0.9833  0.9869  
+
+53
+######################### User based Collaborative Filtering MSD K = 53 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9893
+MAE:  0.7816
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9955
+MAE:  0.7883
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9900
+MAE:  0.7840
+------------
+------------
+Mean RMSE: 0.9916
+Mean MAE : 0.7846
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7816  0.7883  0.7840  0.7846  
+RMSE    0.9893  0.9955  0.9900  0.9916  
+
+######################### Item based Collaborative Filtering MSD K = 53 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9871
+MAE:  0.7816
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9905
+MAE:  0.7851
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9835
+MAE:  0.7810
+------------
+------------
+Mean RMSE: 0.9871
+Mean MAE : 0.7826
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7816  0.7851  0.7810  0.7826  
+RMSE    0.9871  0.9905  0.9835  0.9871  
+
+54
+######################### User based Collaborative Filtering MSD K = 54 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9895
+MAE:  0.7818
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9957
+MAE:  0.7885
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9903
+MAE:  0.7843
+------------
+------------
+Mean RMSE: 0.9918
+Mean MAE : 0.7849
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7818  0.7885  0.7843  0.7849  
+RMSE    0.9895  0.9957  0.9903  0.9918  
+
+######################### Item based Collaborative Filtering MSD K = 54 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9873
+MAE:  0.7818
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9908
+MAE:  0.7854
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9837
+MAE:  0.7813
+------------
+------------
+Mean RMSE: 0.9873
+Mean MAE : 0.7828
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7818  0.7854  0.7813  0.7828  
+RMSE    0.9873  0.9908  0.9837  0.9873  
+
+55
+######################### User based Collaborative Filtering MSD K = 55 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9897
+MAE:  0.7820
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9960
+MAE:  0.7888
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9905
+MAE:  0.7845
+------------
+------------
+Mean RMSE: 0.9921
+Mean MAE : 0.7851
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7820  0.7888  0.7845  0.7851  
+RMSE    0.9897  0.9960  0.9905  0.9921  
+
+######################### Item based Collaborative Filtering MSD K = 55 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9875
+MAE:  0.7820
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9909
+MAE:  0.7855
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9840
+MAE:  0.7815
+------------
+------------
+Mean RMSE: 0.9874
+Mean MAE : 0.7830
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7820  0.7855  0.7815  0.7830  
+RMSE    0.9875  0.9909  0.9840  0.9874  
+
+56
+######################### User based Collaborative Filtering MSD K = 56 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9899
+MAE:  0.7822
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9963
+MAE:  0.7890
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9908
+MAE:  0.7847
+------------
+------------
+Mean RMSE: 0.9923
+Mean MAE : 0.7853
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7822  0.7890  0.7847  0.7853  
+RMSE    0.9899  0.9963  0.9908  0.9923  
+
+######################### Item based Collaborative Filtering MSD K = 56 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9877
+MAE:  0.7822
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9911
+MAE:  0.7858
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9840
+MAE:  0.7815
+------------
+------------
+Mean RMSE: 0.9876
+Mean MAE : 0.7831
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7822  0.7858  0.7815  0.7831  
+RMSE    0.9877  0.9911  0.9840  0.9876  
+
+57
+######################### User based Collaborative Filtering MSD K = 57 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9901
+MAE:  0.7824
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9964
+MAE:  0.7892
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9910
+MAE:  0.7849
+------------
+------------
+Mean RMSE: 0.9925
+Mean MAE : 0.7855
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7824  0.7892  0.7849  0.7855  
+RMSE    0.9901  0.9964  0.9910  0.9925  
+
+######################### Item based Collaborative Filtering MSD K = 57 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9880
+MAE:  0.7825
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9914
+MAE:  0.7861
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9841
+MAE:  0.7817
+------------
+------------
+Mean RMSE: 0.9879
+Mean MAE : 0.7834
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7825  0.7861  0.7817  0.7834  
+RMSE    0.9880  0.9914  0.9841  0.9879  
+
+58
+######################### User based Collaborative Filtering MSD K = 58 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9902
+MAE:  0.7825
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9967
+MAE:  0.7895
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9910
+MAE:  0.7850
+------------
+------------
+Mean RMSE: 0.9926
+Mean MAE : 0.7857
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7825  0.7895  0.7850  0.7857  
+RMSE    0.9902  0.9967  0.9910  0.9926  
+
+######################### Item based Collaborative Filtering MSD K = 58 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9882
+MAE:  0.7826
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9917
+MAE:  0.7863
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9842
+MAE:  0.7818
+------------
+------------
+Mean RMSE: 0.9881
+Mean MAE : 0.7836
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7826  0.7863  0.7818  0.7836  
+RMSE    0.9882  0.9917  0.9842  0.9881  
+
+59
+######################### User based Collaborative Filtering MSD K = 59 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9904
+MAE:  0.7827
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9969
+MAE:  0.7897
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9913
+MAE:  0.7853
+------------
+------------
+Mean RMSE: 0.9929
+Mean MAE : 0.7859
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7827  0.7897  0.7853  0.7859  
+RMSE    0.9904  0.9969  0.9913  0.9929  
+
+######################### Item based Collaborative Filtering MSD K = 59 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9884
+MAE:  0.7828
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9919
+MAE:  0.7866
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9844
+MAE:  0.7819
+------------
+------------
+Mean RMSE: 0.9882
+Mean MAE : 0.7838
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7828  0.7866  0.7819  0.7838  
+RMSE    0.9884  0.9919  0.9844  0.9882  
+
+60
+######################### User based Collaborative Filtering MSD K = 60 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9907
+MAE:  0.7830
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9972
+MAE:  0.7900
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9916
+MAE:  0.7855
+------------
+------------
+Mean RMSE: 0.9932
+Mean MAE : 0.7862
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7830  0.7900  0.7855  0.7862  
+RMSE    0.9907  0.9972  0.9916  0.9932  
+
+######################### Item based Collaborative Filtering MSD K = 60 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9885
+MAE:  0.7829
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9921
+MAE:  0.7867
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9846
+MAE:  0.7821
+------------
+------------
+Mean RMSE: 0.9884
+Mean MAE : 0.7839
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7829  0.7867  0.7821  0.7839  
+RMSE    0.9885  0.9921  0.9846  0.9884  
+
+61
+######################### User based Collaborative Filtering MSD K = 61 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9910
+MAE:  0.7832
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9974
+MAE:  0.7902
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9918
+MAE:  0.7858
+------------
+------------
+Mean RMSE: 0.9934
+Mean MAE : 0.7864
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7832  0.7902  0.7858  0.7864  
+RMSE    0.9910  0.9974  0.9918  0.9934  
+
+######################### Item based Collaborative Filtering MSD K = 61 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9888
+MAE:  0.7831
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9924
+MAE:  0.7870
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9847
+MAE:  0.7823
+------------
+------------
+Mean RMSE: 0.9886
+Mean MAE : 0.7841
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7831  0.7870  0.7823  0.7841  
+RMSE    0.9888  0.9924  0.9847  0.9886  
+
+62
+######################### User based Collaborative Filtering MSD K = 62 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9912
+MAE:  0.7834
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9976
+MAE:  0.7903
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9920
+MAE:  0.7860
+------------
+------------
+Mean RMSE: 0.9936
+Mean MAE : 0.7866
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7834  0.7903  0.7860  0.7866  
+RMSE    0.9912  0.9976  0.9920  0.9936  
+
+######################### Item based Collaborative Filtering MSD K = 62 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9890
+MAE:  0.7833
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9926
+MAE:  0.7873
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9850
+MAE:  0.7825
+------------
+------------
+Mean RMSE: 0.9889
+Mean MAE : 0.7844
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7833  0.7873  0.7825  0.7844  
+RMSE    0.9890  0.9926  0.9850  0.9889  
+
+63
+######################### User based Collaborative Filtering MSD K = 63 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9915
+MAE:  0.7836
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9978
+MAE:  0.7906
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9923
+MAE:  0.7863
+------------
+------------
+Mean RMSE: 0.9938
+Mean MAE : 0.7868
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7836  0.7906  0.7863  0.7868  
+RMSE    0.9915  0.9978  0.9923  0.9938  
+
+######################### Item based Collaborative Filtering MSD K = 63 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9892
+MAE:  0.7836
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9929
+MAE:  0.7876
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9852
+MAE:  0.7826
+------------
+------------
+Mean RMSE: 0.9891
+Mean MAE : 0.7846
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7836  0.7876  0.7826  0.7846  
+RMSE    0.9892  0.9929  0.9852  0.9891  
+
+64
+######################### User based Collaborative Filtering MSD K = 64 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9917
+MAE:  0.7839
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9980
+MAE:  0.7908
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9924
+MAE:  0.7865
+------------
+------------
+Mean RMSE: 0.9940
+Mean MAE : 0.7870
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7839  0.7908  0.7865  0.7870  
+RMSE    0.9917  0.9980  0.9924  0.9940  
+
+######################### Item based Collaborative Filtering MSD K = 64 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9893
+MAE:  0.7838
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9931
+MAE:  0.7879
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9854
+MAE:  0.7829
+------------
+------------
+Mean RMSE: 0.9893
+Mean MAE : 0.7849
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7838  0.7879  0.7829  0.7849  
+RMSE    0.9893  0.9931  0.9854  0.9893  
+
+65
+######################### User based Collaborative Filtering MSD K = 65 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9919
+MAE:  0.7841
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9981
+MAE:  0.7909
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9927
+MAE:  0.7867
+------------
+------------
+Mean RMSE: 0.9942
+Mean MAE : 0.7873
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7841  0.7909  0.7867  0.7873  
+RMSE    0.9919  0.9981  0.9927  0.9942  
+
+######################### Item based Collaborative Filtering MSD K = 65 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9896
+MAE:  0.7841
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9932
+MAE:  0.7881
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9856
+MAE:  0.7830
+------------
+------------
+Mean RMSE: 0.9895
+Mean MAE : 0.7851
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7841  0.7881  0.7830  0.7851  
+RMSE    0.9896  0.9932  0.9856  0.9895  
+
+66
+######################### User based Collaborative Filtering MSD K = 66 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9922
+MAE:  0.7843
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9983
+MAE:  0.7911
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9928
+MAE:  0.7869
+------------
+------------
+Mean RMSE: 0.9944
+Mean MAE : 0.7874
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7843  0.7911  0.7869  0.7874  
+RMSE    0.9922  0.9983  0.9928  0.9944  
+
+######################### Item based Collaborative Filtering MSD K = 66 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9897
+MAE:  0.7843
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9935
+MAE:  0.7883
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9859
+MAE:  0.7834
+------------
+------------
+Mean RMSE: 0.9897
+Mean MAE : 0.7853
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7843  0.7883  0.7834  0.7853  
+RMSE    0.9897  0.9935  0.9859  0.9897  
+
+67
+######################### User based Collaborative Filtering MSD K = 67 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9924
+MAE:  0.7846
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9986
+MAE:  0.7914
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9931
+MAE:  0.7871
+------------
+------------
+Mean RMSE: 0.9947
+Mean MAE : 0.7877
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7846  0.7914  0.7871  0.7877  
+RMSE    0.9924  0.9986  0.9931  0.9947  
+
+######################### Item based Collaborative Filtering MSD K = 67 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9900
+MAE:  0.7846
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9937
+MAE:  0.7886
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9861
+MAE:  0.7835
+------------
+------------
+Mean RMSE: 0.9900
+Mean MAE : 0.7856
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7846  0.7886  0.7835  0.7856  
+RMSE    0.9900  0.9937  0.9861  0.9900  
+
+68
+######################### User based Collaborative Filtering MSD K = 68 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9926
+MAE:  0.7848
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9988
+MAE:  0.7917
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9932
+MAE:  0.7872
+------------
+------------
+Mean RMSE: 0.9949
+Mean MAE : 0.7879
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7848  0.7917  0.7872  0.7879  
+RMSE    0.9926  0.9988  0.9932  0.9949  
+
+######################### Item based Collaborative Filtering MSD K = 68 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9902
+MAE:  0.7848
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9940
+MAE:  0.7889
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9864
+MAE:  0.7838
+------------
+------------
+Mean RMSE: 0.9902
+Mean MAE : 0.7858
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7848  0.7889  0.7838  0.7858  
+RMSE    0.9902  0.9940  0.9864  0.9902  
+
+69
+######################### User based Collaborative Filtering MSD K = 69 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9927
+MAE:  0.7849
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9990
+MAE:  0.7918
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9934
+MAE:  0.7874
+------------
+------------
+Mean RMSE: 0.9950
+Mean MAE : 0.7880
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7849  0.7918  0.7874  0.7880  
+RMSE    0.9927  0.9990  0.9934  0.9950  
+
+######################### Item based Collaborative Filtering MSD K = 69 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9905
+MAE:  0.7851
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9943
+MAE:  0.7892
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9866
+MAE:  0.7840
+------------
+------------
+Mean RMSE: 0.9905
+Mean MAE : 0.7861
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7851  0.7892  0.7840  0.7861  
+RMSE    0.9905  0.9943  0.9866  0.9905  
+
+70
+######################### User based Collaborative Filtering MSD K = 70 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9929
+MAE:  0.7850
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9992
+MAE:  0.7920
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9936
+MAE:  0.7875
+------------
+------------
+Mean RMSE: 0.9952
+Mean MAE : 0.7882
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7850  0.7920  0.7875  0.7882  
+RMSE    0.9929  0.9992  0.9936  0.9952  
+
+######################### Item based Collaborative Filtering MSD K = 70 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9907
+MAE:  0.7854
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9946
+MAE:  0.7895
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9868
+MAE:  0.7842
+------------
+------------
+Mean RMSE: 0.9907
+Mean MAE : 0.7864
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7854  0.7895  0.7842  0.7864  
+RMSE    0.9907  0.9946  0.9868  0.9907  
+
+71
+######################### User based Collaborative Filtering MSD K = 71 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9930
+MAE:  0.7852
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9994
+MAE:  0.7922
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9938
+MAE:  0.7877
+------------
+------------
+Mean RMSE: 0.9954
+Mean MAE : 0.7884
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7852  0.7922  0.7877  0.7884  
+RMSE    0.9930  0.9994  0.9938  0.9954  
+
+######################### Item based Collaborative Filtering MSD K = 71 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9909
+MAE:  0.7856
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9948
+MAE:  0.7897
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9869
+MAE:  0.7844
+------------
+------------
+Mean RMSE: 0.9909
+Mean MAE : 0.7866
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7856  0.7897  0.7844  0.7866  
+RMSE    0.9909  0.9948  0.9869  0.9909  
+
+72
+######################### User based Collaborative Filtering MSD K = 72 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9933
+MAE:  0.7854
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9996
+MAE:  0.7924
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9940
+MAE:  0.7879
+------------
+------------
+Mean RMSE: 0.9956
+Mean MAE : 0.7886
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7854  0.7924  0.7879  0.7886  
+RMSE    0.9933  0.9996  0.9940  0.9956  
+
+######################### Item based Collaborative Filtering MSD K = 72 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9912
+MAE:  0.7858
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9951
+MAE:  0.7899
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9872
+MAE:  0.7846
+------------
+------------
+Mean RMSE: 0.9911
+Mean MAE : 0.7868
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7858  0.7899  0.7846  0.7868  
+RMSE    0.9912  0.9951  0.9872  0.9911  
+
+73
+######################### User based Collaborative Filtering MSD K = 73 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9935
+MAE:  0.7857
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9998
+MAE:  0.7926
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9942
+MAE:  0.7880
+------------
+------------
+Mean RMSE: 0.9958
+Mean MAE : 0.7888
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7857  0.7926  0.7880  0.7888  
+RMSE    0.9935  0.9998  0.9942  0.9958  
+
+######################### Item based Collaborative Filtering MSD K = 73 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9914
+MAE:  0.7862
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9953
+MAE:  0.7902
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9874
+MAE:  0.7849
+------------
+------------
+Mean RMSE: 0.9914
+Mean MAE : 0.7871
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7862  0.7902  0.7849  0.7871  
+RMSE    0.9914  0.9953  0.9874  0.9914  
+
+74
+######################### User based Collaborative Filtering MSD K = 74 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9937
+MAE:  0.7858
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9999
+MAE:  0.7929
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9944
+MAE:  0.7883
+------------
+------------
+Mean RMSE: 0.9960
+Mean MAE : 0.7890
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7858  0.7929  0.7883  0.7890  
+RMSE    0.9937  0.9999  0.9944  0.9960  
+
+######################### Item based Collaborative Filtering MSD K = 74 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9917
+MAE:  0.7865
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9955
+MAE:  0.7904
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9877
+MAE:  0.7851
+------------
+------------
+Mean RMSE: 0.9916
+Mean MAE : 0.7873
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7865  0.7904  0.7851  0.7873  
+RMSE    0.9917  0.9955  0.9877  0.9916  
+
+75
+######################### User based Collaborative Filtering MSD K = 75 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9939
+MAE:  0.7860
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0002
+MAE:  0.7932
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9947
+MAE:  0.7885
+------------
+------------
+Mean RMSE: 0.9963
+Mean MAE : 0.7892
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7860  0.7932  0.7885  0.7892  
+RMSE    0.9939  1.0002  0.9947  0.9963  
+
+######################### Item based Collaborative Filtering MSD K = 75 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9919
+MAE:  0.7867
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9959
+MAE:  0.7907
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9879
+MAE:  0.7853
+------------
+------------
+Mean RMSE: 0.9919
+Mean MAE : 0.7876
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7867  0.7907  0.7853  0.7876  
+RMSE    0.9919  0.9959  0.9879  0.9919  
+
+76
+######################### User based Collaborative Filtering MSD K = 76 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9941
+MAE:  0.7862
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0004
+MAE:  0.7934
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9948
+MAE:  0.7887
+------------
+------------
+Mean RMSE: 0.9965
+Mean MAE : 0.7894
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7862  0.7934  0.7887  0.7894  
+RMSE    0.9941  1.0004  0.9948  0.9965  
+
+######################### Item based Collaborative Filtering MSD K = 76 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9922
+MAE:  0.7870
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9962
+MAE:  0.7910
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9882
+MAE:  0.7856
+------------
+------------
+Mean RMSE: 0.9922
+Mean MAE : 0.7879
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7870  0.7910  0.7856  0.7879  
+RMSE    0.9922  0.9962  0.9882  0.9922  
+
+77
+######################### User based Collaborative Filtering MSD K = 77 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9943
+MAE:  0.7864
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0007
+MAE:  0.7936
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9950
+MAE:  0.7888
+------------
+------------
+Mean RMSE: 0.9967
+Mean MAE : 0.7896
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7864  0.7936  0.7888  0.7896  
+RMSE    0.9943  1.0007  0.9950  0.9967  
+
+######################### Item based Collaborative Filtering MSD K = 77 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9924
+MAE:  0.7872
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9964
+MAE:  0.7913
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9885
+MAE:  0.7859
+------------
+------------
+Mean RMSE: 0.9924
+Mean MAE : 0.7881
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7872  0.7913  0.7859  0.7881  
+RMSE    0.9924  0.9964  0.9885  0.9924  
+
+78
+######################### User based Collaborative Filtering MSD K = 78 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9945
+MAE:  0.7866
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0009
+MAE:  0.7937
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9952
+MAE:  0.7891
+------------
+------------
+Mean RMSE: 0.9969
+Mean MAE : 0.7898
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7866  0.7937  0.7891  0.7898  
+RMSE    0.9945  1.0009  0.9952  0.9969  
+
+######################### Item based Collaborative Filtering MSD K = 78 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9926
+MAE:  0.7874
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9967
+MAE:  0.7916
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9887
+MAE:  0.7861
+------------
+------------
+Mean RMSE: 0.9927
+Mean MAE : 0.7884
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7874  0.7916  0.7861  0.7884  
+RMSE    0.9926  0.9967  0.9887  0.9927  
+
+79
+######################### User based Collaborative Filtering MSD K = 79 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9946
+MAE:  0.7867
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0011
+MAE:  0.7939
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9955
+MAE:  0.7893
+------------
+------------
+Mean RMSE: 0.9971
+Mean MAE : 0.7900
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7867  0.7939  0.7893  0.7900  
+RMSE    0.9946  1.0011  0.9955  0.9971  
+
+######################### Item based Collaborative Filtering MSD K = 79 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9928
+MAE:  0.7876
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9969
+MAE:  0.7918
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9889
+MAE:  0.7863
+------------
+------------
+Mean RMSE: 0.9929
+Mean MAE : 0.7886
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7876  0.7918  0.7863  0.7886  
+RMSE    0.9928  0.9969  0.9889  0.9929  
+
+80
+######################### User based Collaborative Filtering MSD K = 80 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9948
+MAE:  0.7869
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0012
+MAE:  0.7940
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9957
+MAE:  0.7895
+------------
+------------
+Mean RMSE: 0.9973
+Mean MAE : 0.7902
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7869  0.7940  0.7895  0.7902  
+RMSE    0.9948  1.0012  0.9957  0.9973  
+
+######################### Item based Collaborative Filtering MSD K = 80 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9931
+MAE:  0.7879
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9972
+MAE:  0.7922
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9892
+MAE:  0.7865
+------------
+------------
+Mean RMSE: 0.9932
+Mean MAE : 0.7889
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7879  0.7922  0.7865  0.7889  
+RMSE    0.9931  0.9972  0.9892  0.9932  
+
+81
+######################### User based Collaborative Filtering MSD K = 81 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9950
+MAE:  0.7871
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0014
+MAE:  0.7942
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9959
+MAE:  0.7897
+------------
+------------
+Mean RMSE: 0.9975
+Mean MAE : 0.7904
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7871  0.7942  0.7897  0.7904  
+RMSE    0.9950  1.0014  0.9959  0.9975  
+
+######################### Item based Collaborative Filtering MSD K = 81 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9933
+MAE:  0.7882
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9974
+MAE:  0.7923
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9894
+MAE:  0.7868
+------------
+------------
+Mean RMSE: 0.9934
+Mean MAE : 0.7891
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7882  0.7923  0.7868  0.7891  
+RMSE    0.9933  0.9974  0.9894  0.9934  
+
+82
+######################### User based Collaborative Filtering MSD K = 82 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9951
+MAE:  0.7873
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0016
+MAE:  0.7945
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9961
+MAE:  0.7899
+------------
+------------
+Mean RMSE: 0.9976
+Mean MAE : 0.7905
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7873  0.7945  0.7899  0.7905  
+RMSE    0.9951  1.0016  0.9961  0.9976  
+
+######################### Item based Collaborative Filtering MSD K = 82 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9936
+MAE:  0.7884
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9977
+MAE:  0.7927
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9897
+MAE:  0.7871
+------------
+------------
+Mean RMSE: 0.9937
+Mean MAE : 0.7894
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7884  0.7927  0.7871  0.7894  
+RMSE    0.9936  0.9977  0.9897  0.9937  
+
+83
+######################### User based Collaborative Filtering MSD K = 83 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9954
+MAE:  0.7875
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0018
+MAE:  0.7946
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9963
+MAE:  0.7900
+------------
+------------
+Mean RMSE: 0.9978
+Mean MAE : 0.7907
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7875  0.7946  0.7900  0.7907  
+RMSE    0.9954  1.0018  0.9963  0.9978  
+
+######################### Item based Collaborative Filtering MSD K = 83 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9938
+MAE:  0.7886
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9980
+MAE:  0.7929
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9900
+MAE:  0.7874
+------------
+------------
+Mean RMSE: 0.9939
+Mean MAE : 0.7896
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7886  0.7929  0.7874  0.7896  
+RMSE    0.9938  0.9980  0.9900  0.9939  
+
+84
+######################### User based Collaborative Filtering MSD K = 84 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9956
+MAE:  0.7877
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0020
+MAE:  0.7948
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9964
+MAE:  0.7902
+------------
+------------
+Mean RMSE: 0.9980
+Mean MAE : 0.7909
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7877  0.7948  0.7902  0.7909  
+RMSE    0.9956  1.0020  0.9964  0.9980  
+
+######################### Item based Collaborative Filtering MSD K = 84 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9940
+MAE:  0.7889
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9982
+MAE:  0.7932
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9904
+MAE:  0.7877
+------------
+------------
+Mean RMSE: 0.9942
+Mean MAE : 0.7899
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7889  0.7932  0.7877  0.7899  
+RMSE    0.9940  0.9982  0.9904  0.9942  
+
+85
+######################### User based Collaborative Filtering MSD K = 85 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9958
+MAE:  0.7879
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0021
+MAE:  0.7950
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9965
+MAE:  0.7903
+------------
+------------
+Mean RMSE: 0.9982
+Mean MAE : 0.7911
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7879  0.7950  0.7903  0.7911  
+RMSE    0.9958  1.0021  0.9965  0.9982  
+
+######################### Item based Collaborative Filtering MSD K = 85 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9942
+MAE:  0.7891
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9985
+MAE:  0.7935
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9907
+MAE:  0.7881
+------------
+------------
+Mean RMSE: 0.9945
+Mean MAE : 0.7902
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7891  0.7935  0.7881  0.7902  
+RMSE    0.9942  0.9985  0.9907  0.9945  
+
+86
+######################### User based Collaborative Filtering MSD K = 86 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9959
+MAE:  0.7880
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0023
+MAE:  0.7951
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9967
+MAE:  0.7905
+------------
+------------
+Mean RMSE: 0.9983
+Mean MAE : 0.7912
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7880  0.7951  0.7905  0.7912  
+RMSE    0.9959  1.0023  0.9967  0.9983  
+
+######################### Item based Collaborative Filtering MSD K = 86 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9944
+MAE:  0.7893
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9987
+MAE:  0.7937
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9910
+MAE:  0.7884
+------------
+------------
+Mean RMSE: 0.9947
+Mean MAE : 0.7905
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7893  0.7937  0.7884  0.7905  
+RMSE    0.9944  0.9987  0.9910  0.9947  
+
+87
+######################### User based Collaborative Filtering MSD K = 87 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9961
+MAE:  0.7882
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0025
+MAE:  0.7953
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9969
+MAE:  0.7907
+------------
+------------
+Mean RMSE: 0.9985
+Mean MAE : 0.7914
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7882  0.7953  0.7907  0.7914  
+RMSE    0.9961  1.0025  0.9969  0.9985  
+
+######################### Item based Collaborative Filtering MSD K = 87 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9947
+MAE:  0.7896
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9990
+MAE:  0.7940
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9913
+MAE:  0.7887
+------------
+------------
+Mean RMSE: 0.9950
+Mean MAE : 0.7907
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7896  0.7940  0.7887  0.7907  
+RMSE    0.9947  0.9990  0.9913  0.9950  
+
+88
+######################### User based Collaborative Filtering MSD K = 88 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9962
+MAE:  0.7883
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0027
+MAE:  0.7955
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9970
+MAE:  0.7908
+------------
+------------
+Mean RMSE: 0.9986
+Mean MAE : 0.7916
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7883  0.7955  0.7908  0.7916  
+RMSE    0.9962  1.0027  0.9970  0.9986  
+
+######################### Item based Collaborative Filtering MSD K = 88 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9949
+MAE:  0.7898
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9992
+MAE:  0.7942
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9915
+MAE:  0.7889
+------------
+------------
+Mean RMSE: 0.9952
+Mean MAE : 0.7910
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7898  0.7942  0.7889  0.7910  
+RMSE    0.9949  0.9992  0.9915  0.9952  
+
+89
+######################### User based Collaborative Filtering MSD K = 89 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9964
+MAE:  0.7885
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0028
+MAE:  0.7957
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9972
+MAE:  0.7910
+------------
+------------
+Mean RMSE: 0.9988
+Mean MAE : 0.7917
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7885  0.7957  0.7910  0.7917  
+RMSE    0.9964  1.0028  0.9972  0.9988  
+
+######################### Item based Collaborative Filtering MSD K = 89 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9952
+MAE:  0.7901
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9994
+MAE:  0.7944
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9917
+MAE:  0.7891
+------------
+------------
+Mean RMSE: 0.9954
+Mean MAE : 0.7912
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7901  0.7944  0.7891  0.7912  
+RMSE    0.9952  0.9994  0.9917  0.9954  
+
+90
+######################### User based Collaborative Filtering MSD K = 90 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9966
+MAE:  0.7887
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0030
+MAE:  0.7958
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9973
+MAE:  0.7911
+------------
+------------
+Mean RMSE: 0.9990
+Mean MAE : 0.7919
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7887  0.7958  0.7911  0.7919  
+RMSE    0.9966  1.0030  0.9973  0.9990  
+
+######################### Item based Collaborative Filtering MSD K = 90 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9954
+MAE:  0.7903
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9997
+MAE:  0.7947
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9920
+MAE:  0.7893
+------------
+------------
+Mean RMSE: 0.9957
+Mean MAE : 0.7915
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7903  0.7947  0.7893  0.7915  
+RMSE    0.9954  0.9997  0.9920  0.9957  
+
+91
+######################### User based Collaborative Filtering MSD K = 91 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9967
+MAE:  0.7888
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0031
+MAE:  0.7960
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9975
+MAE:  0.7913
+------------
+------------
+Mean RMSE: 0.9991
+Mean MAE : 0.7920
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7888  0.7960  0.7913  0.7920  
+RMSE    0.9967  1.0031  0.9975  0.9991  
+
+######################### Item based Collaborative Filtering MSD K = 91 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9956
+MAE:  0.7905
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9999
+MAE:  0.7950
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9922
+MAE:  0.7896
+------------
+------------
+Mean RMSE: 0.9959
+Mean MAE : 0.7917
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7905  0.7950  0.7896  0.7917  
+RMSE    0.9956  0.9999  0.9922  0.9959  
+
+92
+######################### User based Collaborative Filtering MSD K = 92 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9968
+MAE:  0.7890
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0033
+MAE:  0.7962
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9977
+MAE:  0.7915
+------------
+------------
+Mean RMSE: 0.9993
+Mean MAE : 0.7922
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7890  0.7962  0.7915  0.7922  
+RMSE    0.9968  1.0033  0.9977  0.9993  
+
+######################### Item based Collaborative Filtering MSD K = 92 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9958
+MAE:  0.7908
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0002
+MAE:  0.7952
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9925
+MAE:  0.7898
+------------
+------------
+Mean RMSE: 0.9962
+Mean MAE : 0.7919
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7908  0.7952  0.7898  0.7919  
+RMSE    0.9958  1.0002  0.9925  0.9962  
+
+93
+######################### User based Collaborative Filtering MSD K = 93 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9970
+MAE:  0.7891
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0034
+MAE:  0.7963
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9978
+MAE:  0.7917
+------------
+------------
+Mean RMSE: 0.9994
+Mean MAE : 0.7924
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7891  0.7963  0.7917  0.7924  
+RMSE    0.9970  1.0034  0.9978  0.9994  
+
+######################### Item based Collaborative Filtering MSD K = 93 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9961
+MAE:  0.7911
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0004
+MAE:  0.7955
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9927
+MAE:  0.7901
+------------
+------------
+Mean RMSE: 0.9964
+Mean MAE : 0.7922
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7911  0.7955  0.7901  0.7922  
+RMSE    0.9961  1.0004  0.9927  0.9964  
+
+94
+######################### User based Collaborative Filtering MSD K = 94 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9971
+MAE:  0.7892
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0036
+MAE:  0.7965
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9980
+MAE:  0.7918
+------------
+------------
+Mean RMSE: 0.9995
+Mean MAE : 0.7925
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7892  0.7965  0.7918  0.7925  
+RMSE    0.9971  1.0036  0.9980  0.9995  
+
+######################### Item based Collaborative Filtering MSD K = 94 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9963
+MAE:  0.7913
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0006
+MAE:  0.7957
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9930
+MAE:  0.7904
+------------
+------------
+Mean RMSE: 0.9966
+Mean MAE : 0.7925
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7913  0.7957  0.7904  0.7925  
+RMSE    0.9963  1.0006  0.9930  0.9966  
+
+95
+######################### User based Collaborative Filtering MSD K = 95 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9972
+MAE:  0.7894
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0038
+MAE:  0.7967
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9982
+MAE:  0.7920
+------------
+------------
+Mean RMSE: 0.9997
+Mean MAE : 0.7927
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7894  0.7967  0.7920  0.7927  
+RMSE    0.9972  1.0038  0.9982  0.9997  
+
+######################### Item based Collaborative Filtering MSD K = 95 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9966
+MAE:  0.7916
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0009
+MAE:  0.7960
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9932
+MAE:  0.7906
+------------
+------------
+Mean RMSE: 0.9969
+Mean MAE : 0.7927
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7916  0.7960  0.7906  0.7927  
+RMSE    0.9966  1.0009  0.9932  0.9969  
+
+96
+######################### User based Collaborative Filtering MSD K = 96 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9973
+MAE:  0.7895
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0039
+MAE:  0.7968
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9983
+MAE:  0.7921
+------------
+------------
+Mean RMSE: 0.9998
+Mean MAE : 0.7928
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7895  0.7968  0.7921  0.7928  
+RMSE    0.9973  1.0039  0.9983  0.9998  
+
+######################### Item based Collaborative Filtering MSD K = 96 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9968
+MAE:  0.7919
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0011
+MAE:  0.7962
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9935
+MAE:  0.7909
+------------
+------------
+Mean RMSE: 0.9971
+Mean MAE : 0.7930
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7919  0.7962  0.7909  0.7930  
+RMSE    0.9968  1.0011  0.9935  0.9971  
+
+97
+######################### User based Collaborative Filtering MSD K = 97 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9974
+MAE:  0.7896
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0040
+MAE:  0.7969
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9984
+MAE:  0.7922
+------------
+------------
+Mean RMSE: 0.9999
+Mean MAE : 0.7929
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7896  0.7969  0.7922  0.7929  
+RMSE    0.9974  1.0040  0.9984  0.9999  
+
+######################### Item based Collaborative Filtering MSD K = 97 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9970
+MAE:  0.7921
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0013
+MAE:  0.7965
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9937
+MAE:  0.7911
+------------
+------------
+Mean RMSE: 0.9974
+Mean MAE : 0.7932
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7921  0.7965  0.7911  0.7932  
+RMSE    0.9970  1.0013  0.9937  0.9974  
+
+98
+######################### User based Collaborative Filtering MSD K = 98 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9975
+MAE:  0.7897
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0042
+MAE:  0.7971
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9986
+MAE:  0.7924
+------------
+------------
+Mean RMSE: 1.0001
+Mean MAE : 0.7931
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7897  0.7971  0.7924  0.7931  
+RMSE    0.9975  1.0042  0.9986  1.0001  
+
+######################### Item based Collaborative Filtering MSD K = 98 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9973
+MAE:  0.7923
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0016
+MAE:  0.7968
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9939
+MAE:  0.7914
+------------
+------------
+Mean RMSE: 0.9976
+Mean MAE : 0.7935
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7923  0.7968  0.7914  0.7935  
+RMSE    0.9973  1.0016  0.9939  0.9976  
+
+99
+######################### User based Collaborative Filtering MSD K = 99 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9977
+MAE:  0.7899
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0043
+MAE:  0.7972
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9987
+MAE:  0.7925
+------------
+------------
+Mean RMSE: 1.0002
+Mean MAE : 0.7932
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7899  0.7972  0.7925  0.7932  
+RMSE    0.9977  1.0043  0.9987  1.0002  
+
+######################### Item based Collaborative Filtering MSD K = 99 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9975
+MAE:  0.7925
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0018
+MAE:  0.7970
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9942
+MAE:  0.7916
+------------
+------------
+Mean RMSE: 0.9978
+Mean MAE : 0.7937
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7925  0.7970  0.7916  0.7937  
+RMSE    0.9975  1.0018  0.9942  0.9978  
+
+100
+######################### User based Collaborative Filtering MSD K = 100 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9978
+MAE:  0.7900
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0045
+MAE:  0.7973
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9988
+MAE:  0.7927
+------------
+------------
+Mean RMSE: 1.0004
+Mean MAE : 0.7933
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7900  0.7973  0.7927  0.7933  
+RMSE    0.9978  1.0045  0.9988  1.0004  
+
+######################### Item based Collaborative Filtering MSD K = 100 ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9978
+MAE:  0.7929
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0020
+MAE:  0.7972
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9944
+MAE:  0.7919
+------------
+------------
+Mean RMSE: 0.9981
+Mean MAE : 0.7940
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+MAE     0.7929  0.7972  0.7919  0.7940  
+RMSE    0.9978  1.0020  0.9944  0.9981  
+

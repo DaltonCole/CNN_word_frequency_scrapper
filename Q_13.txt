@@ -1,0 +1,187 @@
+Question: 13
+############################ User based Collaborative Filtering MSD ###########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9867
+MAE:  0.7787
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9927
+MAE:  0.7854
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9869
+MAE:  0.7811
+------------
+------------
+Mean RMSE: 0.9887
+Mean MAE : 0.7817
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    0.9867  0.9927  0.9869  0.9887  
+MAE     0.7787  0.7854  0.7811  0.7817  
+
+########################## User based Collaborative Filtering Cosine ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0195
+MAE:  0.8063
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0245
+MAE:  0.8112
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0194
+MAE:  0.8084
+------------
+------------
+Mean RMSE: 1.0211
+Mean MAE : 0.8086
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0195  1.0245  1.0194  1.0211  
+MAE     0.8063  0.8112  0.8084  0.8086  
+
+########################## User based Collaborative Filtering Pearson #########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0183
+MAE:  0.8075
+------------
+Fold 2
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0228
+MAE:  0.8120
+------------
+Fold 3
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0177
+MAE:  0.8085
+------------
+------------
+Mean RMSE: 1.0196
+Mean MAE : 0.8093
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0183  1.0228  1.0177  1.0196  
+MAE     0.8075  0.8120  0.8085  0.8093  
+
+############################ Item based Collaborative Filtering MSD ###########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9858
+MAE:  0.7800
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9893
+MAE:  0.7836
+------------
+Fold 3
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9818
+MAE:  0.7791
+------------
+------------
+Mean RMSE: 0.9856
+Mean MAE : 0.7809
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    0.9858  0.9893  0.9818  0.9856  
+MAE     0.7800  0.7836  0.7791  0.7809  
+
+########################## Item based Collaborative Filtering Cosine ##########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0336
+MAE:  0.8190
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0421
+MAE:  0.8271
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0317
+MAE:  0.8204
+------------
+------------
+Mean RMSE: 1.0358
+Mean MAE : 0.8221
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0336  1.0421  1.0317  1.0358  
+MAE     0.8190  0.8271  0.8204  0.8221  
+
+########################## Item based Collaborative Filtering Pearson #########################
+Evaluating RMSE, MAE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0453
+MAE:  0.8361
+------------
+Fold 2
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0530
+MAE:  0.8425
+------------
+Fold 3
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0450
+MAE:  0.8364
+------------
+------------
+Mean RMSE: 1.0478
+Mean MAE : 0.8383
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0453  1.0530  1.0450  1.0478  
+MAE     0.8361  0.8425  0.8364  0.8383  
+

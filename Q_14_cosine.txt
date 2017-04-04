@@ -1,0 +1,5301 @@
+Cosine version of Q14
+1
+######################### User based Collaborative Filtering MSD K = 1 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.4073
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.4144
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.3976
+------------
+------------
+Mean RMSE: 1.4064
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.4073  1.4144  1.3976  1.4064  
+
+######################### Item based Collaborative Filtering MSD K = 1 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.5609
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.5702
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.5738
+------------
+------------
+Mean RMSE: 1.5683
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.5609  1.5702  1.5738  1.5683  
+
+2
+######################### User based Collaborative Filtering MSD K = 2 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.2188
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.2241
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.2157
+------------
+------------
+Mean RMSE: 1.2195
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.2188  1.2241  1.2157  1.2195  
+
+######################### Item based Collaborative Filtering MSD K = 2 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.3577
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.3573
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.3594
+------------
+------------
+Mean RMSE: 1.3582
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.3577  1.3573  1.3594  1.3582  
+
+3
+######################### User based Collaborative Filtering MSD K = 3 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1519
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1530
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1466
+------------
+------------
+Mean RMSE: 1.1505
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.1519  1.1530  1.1466  1.1505  
+
+######################### Item based Collaborative Filtering MSD K = 3 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.2706
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.2705
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.2715
+------------
+------------
+Mean RMSE: 1.2709
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.2706  1.2705  1.2715  1.2709  
+
+4
+######################### User based Collaborative Filtering MSD K = 4 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1165
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1184
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1127
+------------
+------------
+Mean RMSE: 1.1159
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.1165  1.1184  1.1127  1.1159  
+
+######################### Item based Collaborative Filtering MSD K = 4 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.2230
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.2241
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.2240
+------------
+------------
+Mean RMSE: 1.2237
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.2230  1.2241  1.2240  1.2237  
+
+5
+######################### User based Collaborative Filtering MSD K = 5 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0937
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0976
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0898
+------------
+------------
+Mean RMSE: 1.0937
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0937  1.0976  1.0898  1.0937  
+
+######################### Item based Collaborative Filtering MSD K = 5 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1887
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1923
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1883
+------------
+------------
+Mean RMSE: 1.1898
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.1887  1.1923  1.1883  1.1898  
+
+6
+######################### User based Collaborative Filtering MSD K = 6 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0778
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0818
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0761
+------------
+------------
+Mean RMSE: 1.0786
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0778  1.0818  1.0761  1.0786  
+
+######################### Item based Collaborative Filtering MSD K = 6 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1656
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1691
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1639
+------------
+------------
+Mean RMSE: 1.1662
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.1656  1.1691  1.1639  1.1662  
+
+7
+######################### User based Collaborative Filtering MSD K = 7 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0673
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0714
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0659
+------------
+------------
+Mean RMSE: 1.0682
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0673  1.0714  1.0659  1.0682  
+
+######################### Item based Collaborative Filtering MSD K = 7 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1483
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1504
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1466
+------------
+------------
+Mean RMSE: 1.1484
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.1483  1.1504  1.1466  1.1484  
+
+8
+######################### User based Collaborative Filtering MSD K = 8 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0603
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0641
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0583
+------------
+------------
+Mean RMSE: 1.0609
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0603  1.0641  1.0583  1.0609  
+
+######################### Item based Collaborative Filtering MSD K = 8 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1336
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1367
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1319
+------------
+------------
+Mean RMSE: 1.1341
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.1336  1.1367  1.1319  1.1341  
+
+9
+######################### User based Collaborative Filtering MSD K = 9 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0540
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0575
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0523
+------------
+------------
+Mean RMSE: 1.0546
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0540  1.0575  1.0523  1.0546  
+
+######################### Item based Collaborative Filtering MSD K = 9 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1218
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1259
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1179
+------------
+------------
+Mean RMSE: 1.1218
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.1218  1.1259  1.1179  1.1218  
+
+10
+######################### User based Collaborative Filtering MSD K = 10 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0491
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0522
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0475
+------------
+------------
+Mean RMSE: 1.0496
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0491  1.0522  1.0475  1.0496  
+
+######################### Item based Collaborative Filtering MSD K = 10 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1122
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1164
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1081
+------------
+------------
+Mean RMSE: 1.1122
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.1122  1.1164  1.1081  1.1122  
+
+11
+######################### User based Collaborative Filtering MSD K = 11 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0460
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0485
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0439
+------------
+------------
+Mean RMSE: 1.0461
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0460  1.0485  1.0439  1.0461  
+
+######################### Item based Collaborative Filtering MSD K = 11 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1033
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1078
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1000
+------------
+------------
+Mean RMSE: 1.1037
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.1033  1.1078  1.1000  1.1037  
+
+12
+######################### User based Collaborative Filtering MSD K = 12 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0423
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0448
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0401
+------------
+------------
+Mean RMSE: 1.0424
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0423  1.0448  1.0401  1.0424  
+
+######################### Item based Collaborative Filtering MSD K = 12 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0954
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1001
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0923
+------------
+------------
+Mean RMSE: 1.0959
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0954  1.1001  1.0923  1.0959  
+
+13
+######################### User based Collaborative Filtering MSD K = 13 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0400
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0425
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0376
+------------
+------------
+Mean RMSE: 1.0400
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0400  1.0425  1.0376  1.0400  
+
+######################### Item based Collaborative Filtering MSD K = 13 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0892
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0934
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0852
+------------
+------------
+Mean RMSE: 1.0892
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0892  1.0934  1.0852  1.0892  
+
+14
+######################### User based Collaborative Filtering MSD K = 14 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0379
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0408
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0357
+------------
+------------
+Mean RMSE: 1.0381
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0379  1.0408  1.0357  1.0381  
+
+######################### Item based Collaborative Filtering MSD K = 14 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0834
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0876
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0793
+------------
+------------
+Mean RMSE: 1.0835
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0834  1.0876  1.0793  1.0835  
+
+15
+######################### User based Collaborative Filtering MSD K = 15 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0364
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0392
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0339
+------------
+------------
+Mean RMSE: 1.0365
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0364  1.0392  1.0339  1.0365  
+
+######################### Item based Collaborative Filtering MSD K = 15 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0779
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0837
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0739
+------------
+------------
+Mean RMSE: 1.0785
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0779  1.0837  1.0739  1.0785  
+
+16
+######################### User based Collaborative Filtering MSD K = 16 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0346
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0371
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0320
+------------
+------------
+Mean RMSE: 1.0346
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0346  1.0371  1.0320  1.0346  
+
+######################### Item based Collaborative Filtering MSD K = 16 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0730
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0797
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0696
+------------
+------------
+Mean RMSE: 1.0741
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0730  1.0797  1.0696  1.0741  
+
+17
+######################### User based Collaborative Filtering MSD K = 17 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0329
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0355
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0303
+------------
+------------
+Mean RMSE: 1.0329
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0329  1.0355  1.0303  1.0329  
+
+######################### Item based Collaborative Filtering MSD K = 17 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0693
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0761
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0656
+------------
+------------
+Mean RMSE: 1.0703
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0693  1.0761  1.0656  1.0703  
+
+18
+######################### User based Collaborative Filtering MSD K = 18 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0316
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0344
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0293
+------------
+------------
+Mean RMSE: 1.0318
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0316  1.0344  1.0293  1.0318  
+
+######################### Item based Collaborative Filtering MSD K = 18 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0654
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0725
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0622
+------------
+------------
+Mean RMSE: 1.0667
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0654  1.0725  1.0622  1.0667  
+
+19
+######################### User based Collaborative Filtering MSD K = 19 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0307
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0331
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0281
+------------
+------------
+Mean RMSE: 1.0306
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0307  1.0331  1.0281  1.0306  
+
+######################### Item based Collaborative Filtering MSD K = 19 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0620
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0695
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0594
+------------
+------------
+Mean RMSE: 1.0637
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0620  1.0695  1.0594  1.0637  
+
+20
+######################### User based Collaborative Filtering MSD K = 20 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0298
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0323
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0271
+------------
+------------
+Mean RMSE: 1.0297
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0298  1.0323  1.0271  1.0297  
+
+######################### Item based Collaborative Filtering MSD K = 20 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0589
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0665
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0563
+------------
+------------
+Mean RMSE: 1.0605
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0589  1.0665  1.0563  1.0605  
+
+21
+######################### User based Collaborative Filtering MSD K = 21 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0287
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0317
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0260
+------------
+------------
+Mean RMSE: 1.0288
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0287  1.0317  1.0260  1.0288  
+
+######################### Item based Collaborative Filtering MSD K = 21 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0564
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0640
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0540
+------------
+------------
+Mean RMSE: 1.0581
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0564  1.0640  1.0540  1.0581  
+
+22
+######################### User based Collaborative Filtering MSD K = 22 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0277
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0308
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0253
+------------
+------------
+Mean RMSE: 1.0279
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0277  1.0308  1.0253  1.0279  
+
+######################### Item based Collaborative Filtering MSD K = 22 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0539
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0619
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0520
+------------
+------------
+Mean RMSE: 1.0559
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0539  1.0619  1.0520  1.0559  
+
+23
+######################### User based Collaborative Filtering MSD K = 23 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0269
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0299
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0250
+------------
+------------
+Mean RMSE: 1.0273
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0269  1.0299  1.0250  1.0273  
+
+######################### Item based Collaborative Filtering MSD K = 23 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0518
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0598
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0499
+------------
+------------
+Mean RMSE: 1.0538
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0518  1.0598  1.0499  1.0538  
+
+24
+######################### User based Collaborative Filtering MSD K = 24 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0261
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0291
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0241
+------------
+------------
+Mean RMSE: 1.0264
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0261  1.0291  1.0241  1.0264  
+
+######################### Item based Collaborative Filtering MSD K = 24 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0499
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0579
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0478
+------------
+------------
+Mean RMSE: 1.0519
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0499  1.0579  1.0478  1.0519  
+
+25
+######################### User based Collaborative Filtering MSD K = 25 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0252
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0283
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0237
+------------
+------------
+Mean RMSE: 1.0257
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0252  1.0283  1.0237  1.0257  
+
+######################### Item based Collaborative Filtering MSD K = 25 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0479
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0564
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0461
+------------
+------------
+Mean RMSE: 1.0501
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0479  1.0564  1.0461  1.0501  
+
+26
+######################### User based Collaborative Filtering MSD K = 26 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0244
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0278
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0229
+------------
+------------
+Mean RMSE: 1.0250
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0244  1.0278  1.0229  1.0250  
+
+######################### Item based Collaborative Filtering MSD K = 26 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0461
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0548
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0445
+------------
+------------
+Mean RMSE: 1.0485
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0461  1.0548  1.0445  1.0485  
+
+27
+######################### User based Collaborative Filtering MSD K = 27 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0238
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0273
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0224
+------------
+------------
+Mean RMSE: 1.0245
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0238  1.0273  1.0224  1.0245  
+
+######################### Item based Collaborative Filtering MSD K = 27 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0447
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0533
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0428
+------------
+------------
+Mean RMSE: 1.0469
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0447  1.0533  1.0428  1.0469  
+
+28
+######################### User based Collaborative Filtering MSD K = 28 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0233
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0267
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0220
+------------
+------------
+Mean RMSE: 1.0240
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0233  1.0267  1.0220  1.0240  
+
+######################### Item based Collaborative Filtering MSD K = 28 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0437
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0523
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0412
+------------
+------------
+Mean RMSE: 1.0457
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0437  1.0523  1.0412  1.0457  
+
+29
+######################### User based Collaborative Filtering MSD K = 29 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0228
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0265
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0212
+------------
+------------
+Mean RMSE: 1.0235
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0228  1.0265  1.0212  1.0235  
+
+######################### Item based Collaborative Filtering MSD K = 29 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0424
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0510
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0405
+------------
+------------
+Mean RMSE: 1.0446
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0424  1.0510  1.0405  1.0446  
+
+30
+######################### User based Collaborative Filtering MSD K = 30 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0223
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0262
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0207
+------------
+------------
+Mean RMSE: 1.0231
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0223  1.0262  1.0207  1.0231  
+
+######################### Item based Collaborative Filtering MSD K = 30 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0408
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0496
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0390
+------------
+------------
+Mean RMSE: 1.0431
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0408  1.0496  1.0390  1.0431  
+
+31
+######################### User based Collaborative Filtering MSD K = 31 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0218
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0261
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0206
+------------
+------------
+Mean RMSE: 1.0228
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0218  1.0261  1.0206  1.0228  
+
+######################### Item based Collaborative Filtering MSD K = 31 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0396
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0486
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0379
+------------
+------------
+Mean RMSE: 1.0420
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0396  1.0486  1.0379  1.0420  
+
+32
+######################### User based Collaborative Filtering MSD K = 32 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0216
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0259
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0200
+------------
+------------
+Mean RMSE: 1.0225
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0216  1.0259  1.0200  1.0225  
+
+######################### Item based Collaborative Filtering MSD K = 32 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0387
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0475
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0370
+------------
+------------
+Mean RMSE: 1.0411
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0387  1.0475  1.0370  1.0411  
+
+33
+######################### User based Collaborative Filtering MSD K = 33 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0213
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0257
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0200
+------------
+------------
+Mean RMSE: 1.0223
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0213  1.0257  1.0200  1.0223  
+
+######################### Item based Collaborative Filtering MSD K = 33 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0380
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0467
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0362
+------------
+------------
+Mean RMSE: 1.0403
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0380  1.0467  1.0362  1.0403  
+
+34
+######################### User based Collaborative Filtering MSD K = 34 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0208
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0255
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0199
+------------
+------------
+Mean RMSE: 1.0221
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0208  1.0255  1.0199  1.0221  
+
+######################### Item based Collaborative Filtering MSD K = 34 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0372
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0459
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0353
+------------
+------------
+Mean RMSE: 1.0395
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0372  1.0459  1.0353  1.0395  
+
+35
+######################### User based Collaborative Filtering MSD K = 35 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0205
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0254
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0197
+------------
+------------
+Mean RMSE: 1.0218
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0205  1.0254  1.0197  1.0218  
+
+######################### Item based Collaborative Filtering MSD K = 35 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0363
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0449
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0347
+------------
+------------
+Mean RMSE: 1.0386
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0363  1.0449  1.0347  1.0386  
+
+36
+######################### User based Collaborative Filtering MSD K = 36 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0203
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0250
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0195
+------------
+------------
+Mean RMSE: 1.0216
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0203  1.0250  1.0195  1.0216  
+
+######################### Item based Collaborative Filtering MSD K = 36 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0358
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0444
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0340
+------------
+------------
+Mean RMSE: 1.0381
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0358  1.0444  1.0340  1.0381  
+
+37
+######################### User based Collaborative Filtering MSD K = 37 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0202
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0250
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0194
+------------
+------------
+Mean RMSE: 1.0215
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0202  1.0250  1.0194  1.0215  
+
+######################### Item based Collaborative Filtering MSD K = 37 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0351
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0437
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0332
+------------
+------------
+Mean RMSE: 1.0373
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0351  1.0437  1.0332  1.0373  
+
+38
+######################### User based Collaborative Filtering MSD K = 38 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0199
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0250
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0195
+------------
+------------
+Mean RMSE: 1.0214
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0199  1.0250  1.0195  1.0214  
+
+######################### Item based Collaborative Filtering MSD K = 38 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0345
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0430
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0327
+------------
+------------
+Mean RMSE: 1.0368
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0345  1.0430  1.0327  1.0368  
+
+39
+######################### User based Collaborative Filtering MSD K = 39 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0197
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0248
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0196
+------------
+------------
+Mean RMSE: 1.0214
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0197  1.0248  1.0196  1.0214  
+
+######################### Item based Collaborative Filtering MSD K = 39 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0340
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0424
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0323
+------------
+------------
+Mean RMSE: 1.0362
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0340  1.0424  1.0323  1.0362  
+
+40
+######################### User based Collaborative Filtering MSD K = 40 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0195
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0245
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0194
+------------
+------------
+Mean RMSE: 1.0211
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0195  1.0245  1.0194  1.0211  
+
+######################### Item based Collaborative Filtering MSD K = 40 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0336
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0421
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0317
+------------
+------------
+Mean RMSE: 1.0358
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0336  1.0421  1.0317  1.0358  
+
+41
+######################### User based Collaborative Filtering MSD K = 41 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0194
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0244
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0193
+------------
+------------
+Mean RMSE: 1.0210
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0194  1.0244  1.0193  1.0210  
+
+######################### Item based Collaborative Filtering MSD K = 41 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0334
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0414
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0313
+------------
+------------
+Mean RMSE: 1.0354
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0334  1.0414  1.0313  1.0354  
+
+42
+######################### User based Collaborative Filtering MSD K = 42 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0193
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0244
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0193
+------------
+------------
+Mean RMSE: 1.0210
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0193  1.0244  1.0193  1.0210  
+
+######################### Item based Collaborative Filtering MSD K = 42 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0331
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0409
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0307
+------------
+------------
+Mean RMSE: 1.0349
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0331  1.0409  1.0307  1.0349  
+
+43
+######################### User based Collaborative Filtering MSD K = 43 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0193
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0242
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+------------
+------------
+Mean RMSE: 1.0209
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0193  1.0242  1.0192  1.0209  
+
+######################### Item based Collaborative Filtering MSD K = 43 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0330
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0404
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0306
+------------
+------------
+Mean RMSE: 1.0346
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0330  1.0404  1.0306  1.0346  
+
+44
+######################### User based Collaborative Filtering MSD K = 44 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0242
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+------------
+------------
+Mean RMSE: 1.0208
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0192  1.0242  1.0192  1.0208  
+
+######################### Item based Collaborative Filtering MSD K = 44 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0326
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0401
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0302
+------------
+------------
+Mean RMSE: 1.0343
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0326  1.0401  1.0302  1.0343  
+
+45
+######################### User based Collaborative Filtering MSD K = 45 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0240
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+------------
+------------
+Mean RMSE: 1.0208
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0192  1.0240  1.0192  1.0208  
+
+######################### Item based Collaborative Filtering MSD K = 45 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0323
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0398
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0299
+------------
+------------
+Mean RMSE: 1.0340
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0323  1.0398  1.0299  1.0340  
+
+46
+######################### User based Collaborative Filtering MSD K = 46 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0191
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0240
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+------------
+------------
+Mean RMSE: 1.0208
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0191  1.0240  1.0192  1.0208  
+
+######################### Item based Collaborative Filtering MSD K = 46 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0319
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0395
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0297
+------------
+------------
+Mean RMSE: 1.0337
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0319  1.0395  1.0297  1.0337  
+
+47
+######################### User based Collaborative Filtering MSD K = 47 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0190
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0237
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+------------
+------------
+Mean RMSE: 1.0206
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0190  1.0237  1.0192  1.0206  
+
+######################### Item based Collaborative Filtering MSD K = 47 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0317
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0394
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0295
+------------
+------------
+Mean RMSE: 1.0335
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0317  1.0394  1.0295  1.0335  
+
+48
+######################### User based Collaborative Filtering MSD K = 48 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0189
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0237
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+------------
+------------
+Mean RMSE: 1.0206
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0189  1.0237  1.0192  1.0206  
+
+######################### Item based Collaborative Filtering MSD K = 48 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0316
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0389
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0292
+------------
+------------
+Mean RMSE: 1.0332
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0316  1.0389  1.0292  1.0332  
+
+49
+######################### User based Collaborative Filtering MSD K = 49 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0188
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0235
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0193
+------------
+------------
+Mean RMSE: 1.0205
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0188  1.0235  1.0193  1.0205  
+
+######################### Item based Collaborative Filtering MSD K = 49 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0312
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0387
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0290
+------------
+------------
+Mean RMSE: 1.0330
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0312  1.0387  1.0290  1.0330  
+
+50
+######################### User based Collaborative Filtering MSD K = 50 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0188
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0235
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+------------
+------------
+Mean RMSE: 1.0205
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0188  1.0235  1.0192  1.0205  
+
+######################### Item based Collaborative Filtering MSD K = 50 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0309
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0385
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0290
+------------
+------------
+Mean RMSE: 1.0328
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0309  1.0385  1.0290  1.0328  
+
+51
+######################### User based Collaborative Filtering MSD K = 51 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0236
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0190
+------------
+------------
+Mean RMSE: 1.0204
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0187  1.0236  1.0190  1.0204  
+
+######################### Item based Collaborative Filtering MSD K = 51 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0305
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0383
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0289
+------------
+------------
+Mean RMSE: 1.0325
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0305  1.0383  1.0289  1.0325  
+
+52
+######################### User based Collaborative Filtering MSD K = 52 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0236
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0189
+------------
+------------
+Mean RMSE: 1.0204
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0187  1.0236  1.0189  1.0204  
+
+######################### Item based Collaborative Filtering MSD K = 52 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0305
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0382
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0288
+------------
+------------
+Mean RMSE: 1.0325
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0305  1.0382  1.0288  1.0325  
+
+53
+######################### User based Collaborative Filtering MSD K = 53 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0237
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0190
+------------
+------------
+Mean RMSE: 1.0205
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0187  1.0237  1.0190  1.0205  
+
+######################### Item based Collaborative Filtering MSD K = 53 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0303
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0380
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0288
+------------
+------------
+Mean RMSE: 1.0323
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0303  1.0380  1.0288  1.0323  
+
+54
+######################### User based Collaborative Filtering MSD K = 54 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0185
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0236
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0190
+------------
+------------
+Mean RMSE: 1.0204
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0185  1.0236  1.0190  1.0204  
+
+######################### Item based Collaborative Filtering MSD K = 54 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0301
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0378
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0287
+------------
+------------
+Mean RMSE: 1.0322
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0301  1.0378  1.0287  1.0322  
+
+55
+######################### User based Collaborative Filtering MSD K = 55 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0184
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0236
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0190
+------------
+------------
+Mean RMSE: 1.0203
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0184  1.0236  1.0190  1.0203  
+
+######################### Item based Collaborative Filtering MSD K = 55 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0300
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0376
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0285
+------------
+------------
+Mean RMSE: 1.0321
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0300  1.0376  1.0285  1.0321  
+
+56
+######################### User based Collaborative Filtering MSD K = 56 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0185
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0236
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0189
+------------
+------------
+Mean RMSE: 1.0203
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0185  1.0236  1.0189  1.0203  
+
+######################### Item based Collaborative Filtering MSD K = 56 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0301
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0375
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0285
+------------
+------------
+Mean RMSE: 1.0320
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0301  1.0375  1.0285  1.0320  
+
+57
+######################### User based Collaborative Filtering MSD K = 57 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0184
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0237
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0189
+------------
+------------
+Mean RMSE: 1.0203
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0184  1.0237  1.0189  1.0203  
+
+######################### Item based Collaborative Filtering MSD K = 57 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0301
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0373
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0284
+------------
+------------
+Mean RMSE: 1.0320
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0301  1.0373  1.0284  1.0320  
+
+58
+######################### User based Collaborative Filtering MSD K = 58 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0183
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0239
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0189
+------------
+------------
+Mean RMSE: 1.0204
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0183  1.0239  1.0189  1.0204  
+
+######################### Item based Collaborative Filtering MSD K = 58 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0302
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0372
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0282
+------------
+------------
+Mean RMSE: 1.0319
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0302  1.0372  1.0282  1.0319  
+
+59
+######################### User based Collaborative Filtering MSD K = 59 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0182
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0240
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0189
+------------
+------------
+Mean RMSE: 1.0204
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0182  1.0240  1.0189  1.0204  
+
+######################### Item based Collaborative Filtering MSD K = 59 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0301
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0371
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0282
+------------
+------------
+Mean RMSE: 1.0318
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0301  1.0371  1.0282  1.0318  
+
+60
+######################### User based Collaborative Filtering MSD K = 60 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0182
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0239
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0189
+------------
+------------
+Mean RMSE: 1.0203
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0182  1.0239  1.0189  1.0203  
+
+######################### Item based Collaborative Filtering MSD K = 60 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0300
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0370
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0282
+------------
+------------
+Mean RMSE: 1.0317
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0300  1.0370  1.0282  1.0317  
+
+61
+######################### User based Collaborative Filtering MSD K = 61 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0181
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0240
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0188
+------------
+------------
+Mean RMSE: 1.0203
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0181  1.0240  1.0188  1.0203  
+
+######################### Item based Collaborative Filtering MSD K = 61 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0300
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0369
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0281
+------------
+------------
+Mean RMSE: 1.0317
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0300  1.0369  1.0281  1.0317  
+
+62
+######################### User based Collaborative Filtering MSD K = 62 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0181
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0240
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0188
+------------
+------------
+Mean RMSE: 1.0203
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0181  1.0240  1.0188  1.0203  
+
+######################### Item based Collaborative Filtering MSD K = 62 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0299
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0368
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0281
+------------
+------------
+Mean RMSE: 1.0316
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0299  1.0368  1.0281  1.0316  
+
+63
+######################### User based Collaborative Filtering MSD K = 63 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0181
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0241
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+------------
+Mean RMSE: 1.0203
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0181  1.0241  1.0187  1.0203  
+
+######################### Item based Collaborative Filtering MSD K = 63 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0299
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0368
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0280
+------------
+------------
+Mean RMSE: 1.0316
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0299  1.0368  1.0280  1.0316  
+
+64
+######################### User based Collaborative Filtering MSD K = 64 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0181
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0241
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+------------
+Mean RMSE: 1.0203
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0181  1.0241  1.0187  1.0203  
+
+######################### Item based Collaborative Filtering MSD K = 64 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0299
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0367
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0279
+------------
+------------
+Mean RMSE: 1.0315
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0299  1.0367  1.0279  1.0315  
+
+65
+######################### User based Collaborative Filtering MSD K = 65 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0181
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0242
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+------------
+Mean RMSE: 1.0203
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0181  1.0242  1.0187  1.0203  
+
+######################### Item based Collaborative Filtering MSD K = 65 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0300
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0367
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0279
+------------
+------------
+Mean RMSE: 1.0316
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0300  1.0367  1.0279  1.0316  
+
+66
+######################### User based Collaborative Filtering MSD K = 66 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0181
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0243
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+------------
+Mean RMSE: 1.0204
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0181  1.0243  1.0187  1.0204  
+
+######################### Item based Collaborative Filtering MSD K = 66 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0299
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0367
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0279
+------------
+------------
+Mean RMSE: 1.0315
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0299  1.0367  1.0279  1.0315  
+
+67
+######################### User based Collaborative Filtering MSD K = 67 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0182
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0243
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+------------
+Mean RMSE: 1.0204
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0182  1.0243  1.0187  1.0204  
+
+######################### Item based Collaborative Filtering MSD K = 67 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0300
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0367
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0280
+------------
+------------
+Mean RMSE: 1.0316
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0300  1.0367  1.0280  1.0316  
+
+68
+######################### User based Collaborative Filtering MSD K = 68 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0182
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0243
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+------------
+Mean RMSE: 1.0204
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0182  1.0243  1.0187  1.0204  
+
+######################### Item based Collaborative Filtering MSD K = 68 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0300
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0367
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0279
+------------
+------------
+Mean RMSE: 1.0315
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0300  1.0367  1.0279  1.0315  
+
+69
+######################### User based Collaborative Filtering MSD K = 69 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0182
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0243
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+------------
+Mean RMSE: 1.0204
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0182  1.0243  1.0187  1.0204  
+
+######################### Item based Collaborative Filtering MSD K = 69 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0300
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0368
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0279
+------------
+------------
+Mean RMSE: 1.0316
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0300  1.0368  1.0279  1.0316  
+
+70
+######################### User based Collaborative Filtering MSD K = 70 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0182
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0243
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+------------
+Mean RMSE: 1.0204
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0182  1.0243  1.0187  1.0204  
+
+######################### Item based Collaborative Filtering MSD K = 70 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0300
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0367
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0281
+------------
+------------
+Mean RMSE: 1.0316
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0300  1.0367  1.0281  1.0316  
+
+71
+######################### User based Collaborative Filtering MSD K = 71 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0183
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0245
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+------------
+Mean RMSE: 1.0205
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0183  1.0245  1.0187  1.0205  
+
+######################### Item based Collaborative Filtering MSD K = 71 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0301
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0366
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0281
+------------
+------------
+Mean RMSE: 1.0316
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0301  1.0366  1.0281  1.0316  
+
+72
+######################### User based Collaborative Filtering MSD K = 72 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0183
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0245
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+------------
+Mean RMSE: 1.0205
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0183  1.0245  1.0187  1.0205  
+
+######################### Item based Collaborative Filtering MSD K = 72 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0302
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0366
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0281
+------------
+------------
+Mean RMSE: 1.0316
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0302  1.0366  1.0281  1.0316  
+
+73
+######################### User based Collaborative Filtering MSD K = 73 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0183
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0247
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+------------
+Mean RMSE: 1.0206
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0183  1.0247  1.0187  1.0206  
+
+######################### Item based Collaborative Filtering MSD K = 73 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0303
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0368
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0281
+------------
+------------
+Mean RMSE: 1.0317
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0303  1.0368  1.0281  1.0317  
+
+74
+######################### User based Collaborative Filtering MSD K = 74 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0184
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0248
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0188
+------------
+------------
+Mean RMSE: 1.0206
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0184  1.0248  1.0188  1.0206  
+
+######################### Item based Collaborative Filtering MSD K = 74 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0304
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0369
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0281
+------------
+------------
+Mean RMSE: 1.0318
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0304  1.0369  1.0281  1.0318  
+
+75
+######################### User based Collaborative Filtering MSD K = 75 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0185
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0249
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0188
+------------
+------------
+Mean RMSE: 1.0207
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0185  1.0249  1.0188  1.0207  
+
+######################### Item based Collaborative Filtering MSD K = 75 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0305
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0369
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0281
+------------
+------------
+Mean RMSE: 1.0318
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0305  1.0369  1.0281  1.0318  
+
+76
+######################### User based Collaborative Filtering MSD K = 76 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0185
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0249
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0188
+------------
+------------
+Mean RMSE: 1.0207
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0185  1.0249  1.0188  1.0207  
+
+######################### Item based Collaborative Filtering MSD K = 76 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0305
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0370
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0281
+------------
+------------
+Mean RMSE: 1.0319
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0305  1.0370  1.0281  1.0319  
+
+77
+######################### User based Collaborative Filtering MSD K = 77 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0185
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0249
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0188
+------------
+------------
+Mean RMSE: 1.0208
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0185  1.0249  1.0188  1.0208  
+
+######################### Item based Collaborative Filtering MSD K = 77 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0306
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0370
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0281
+------------
+------------
+Mean RMSE: 1.0319
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0306  1.0370  1.0281  1.0319  
+
+78
+######################### User based Collaborative Filtering MSD K = 78 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0185
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0249
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0189
+------------
+------------
+Mean RMSE: 1.0208
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0185  1.0249  1.0189  1.0208  
+
+######################### Item based Collaborative Filtering MSD K = 78 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0308
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0371
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0282
+------------
+------------
+Mean RMSE: 1.0320
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0308  1.0371  1.0282  1.0320  
+
+79
+######################### User based Collaborative Filtering MSD K = 79 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0186
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0250
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0189
+------------
+------------
+Mean RMSE: 1.0208
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0186  1.0250  1.0189  1.0208  
+
+######################### Item based Collaborative Filtering MSD K = 79 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0307
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0370
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0282
+------------
+------------
+Mean RMSE: 1.0320
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0307  1.0370  1.0282  1.0320  
+
+80
+######################### User based Collaborative Filtering MSD K = 80 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0186
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0250
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0190
+------------
+------------
+Mean RMSE: 1.0209
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0186  1.0250  1.0190  1.0209  
+
+######################### Item based Collaborative Filtering MSD K = 80 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0307
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0371
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0283
+------------
+------------
+Mean RMSE: 1.0320
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0307  1.0371  1.0283  1.0320  
+
+81
+######################### User based Collaborative Filtering MSD K = 81 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0251
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0190
+------------
+------------
+Mean RMSE: 1.0209
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0187  1.0251  1.0190  1.0209  
+
+######################### Item based Collaborative Filtering MSD K = 81 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0307
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0372
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0284
+------------
+------------
+Mean RMSE: 1.0321
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0307  1.0372  1.0284  1.0321  
+
+82
+######################### User based Collaborative Filtering MSD K = 82 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0252
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0190
+------------
+------------
+Mean RMSE: 1.0210
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0187  1.0252  1.0190  1.0210  
+
+######################### Item based Collaborative Filtering MSD K = 82 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0309
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0373
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0285
+------------
+------------
+Mean RMSE: 1.0322
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0309  1.0373  1.0285  1.0322  
+
+83
+######################### User based Collaborative Filtering MSD K = 83 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0252
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0191
+------------
+------------
+Mean RMSE: 1.0210
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0187  1.0252  1.0191  1.0210  
+
+######################### Item based Collaborative Filtering MSD K = 83 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0309
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0374
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0286
+------------
+------------
+Mean RMSE: 1.0323
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0309  1.0374  1.0286  1.0323  
+
+84
+######################### User based Collaborative Filtering MSD K = 84 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0188
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0253
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+------------
+------------
+Mean RMSE: 1.0211
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0188  1.0253  1.0192  1.0211  
+
+######################### Item based Collaborative Filtering MSD K = 84 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0309
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0375
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0287
+------------
+------------
+Mean RMSE: 1.0324
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0309  1.0375  1.0287  1.0324  
+
+85
+######################### User based Collaborative Filtering MSD K = 85 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0188
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0253
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0193
+------------
+------------
+Mean RMSE: 1.0211
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0188  1.0253  1.0193  1.0211  
+
+######################### Item based Collaborative Filtering MSD K = 85 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0310
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0375
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0288
+------------
+------------
+Mean RMSE: 1.0324
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0310  1.0375  1.0288  1.0324  
+
+86
+######################### User based Collaborative Filtering MSD K = 86 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0187
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0253
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0193
+------------
+------------
+Mean RMSE: 1.0211
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0187  1.0253  1.0193  1.0211  
+
+######################### Item based Collaborative Filtering MSD K = 86 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0312
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0376
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0288
+------------
+------------
+Mean RMSE: 1.0326
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0312  1.0376  1.0288  1.0326  
+
+87
+######################### User based Collaborative Filtering MSD K = 87 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0188
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0254
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0194
+------------
+------------
+Mean RMSE: 1.0212
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0188  1.0254  1.0194  1.0212  
+
+######################### Item based Collaborative Filtering MSD K = 87 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0313
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0377
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0289
+------------
+------------
+Mean RMSE: 1.0326
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0313  1.0377  1.0289  1.0326  
+
+88
+######################### User based Collaborative Filtering MSD K = 88 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0189
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0255
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0195
+------------
+------------
+Mean RMSE: 1.0213
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0189  1.0255  1.0195  1.0213  
+
+######################### Item based Collaborative Filtering MSD K = 88 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0314
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0377
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0289
+------------
+------------
+Mean RMSE: 1.0327
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0314  1.0377  1.0289  1.0327  
+
+89
+######################### User based Collaborative Filtering MSD K = 89 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0189
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0255
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0196
+------------
+------------
+Mean RMSE: 1.0213
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0189  1.0255  1.0196  1.0213  
+
+######################### Item based Collaborative Filtering MSD K = 89 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0315
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0378
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0291
+------------
+------------
+Mean RMSE: 1.0328
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0315  1.0378  1.0291  1.0328  
+
+90
+######################### User based Collaborative Filtering MSD K = 90 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0190
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0256
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0197
+------------
+------------
+Mean RMSE: 1.0214
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0190  1.0256  1.0197  1.0214  
+
+######################### Item based Collaborative Filtering MSD K = 90 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0316
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0380
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0292
+------------
+------------
+Mean RMSE: 1.0329
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0316  1.0380  1.0292  1.0329  
+
+91
+######################### User based Collaborative Filtering MSD K = 91 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0190
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0257
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0198
+------------
+------------
+Mean RMSE: 1.0215
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0190  1.0257  1.0198  1.0215  
+
+######################### Item based Collaborative Filtering MSD K = 91 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0316
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0380
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0293
+------------
+------------
+Mean RMSE: 1.0330
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0316  1.0380  1.0293  1.0330  
+
+92
+######################### User based Collaborative Filtering MSD K = 92 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0191
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0258
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0198
+------------
+------------
+Mean RMSE: 1.0216
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0191  1.0258  1.0198  1.0216  
+
+######################### Item based Collaborative Filtering MSD K = 92 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0317
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0381
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0294
+------------
+------------
+Mean RMSE: 1.0331
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0317  1.0381  1.0294  1.0331  
+
+93
+######################### User based Collaborative Filtering MSD K = 93 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0191
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0258
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0198
+------------
+------------
+Mean RMSE: 1.0216
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0191  1.0258  1.0198  1.0216  
+
+######################### Item based Collaborative Filtering MSD K = 93 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0318
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0381
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0295
+------------
+------------
+Mean RMSE: 1.0331
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0318  1.0381  1.0295  1.0331  
+
+94
+######################### User based Collaborative Filtering MSD K = 94 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0191
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0258
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0199
+------------
+------------
+Mean RMSE: 1.0216
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0191  1.0258  1.0199  1.0216  
+
+######################### Item based Collaborative Filtering MSD K = 94 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0319
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0381
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0296
+------------
+------------
+Mean RMSE: 1.0332
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0319  1.0381  1.0296  1.0332  
+
+95
+######################### User based Collaborative Filtering MSD K = 95 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0258
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0200
+------------
+------------
+Mean RMSE: 1.0216
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0192  1.0258  1.0200  1.0216  
+
+######################### Item based Collaborative Filtering MSD K = 95 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0320
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0382
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0297
+------------
+------------
+Mean RMSE: 1.0333
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0320  1.0382  1.0297  1.0333  
+
+96
+######################### User based Collaborative Filtering MSD K = 96 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0192
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0258
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0200
+------------
+------------
+Mean RMSE: 1.0217
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0192  1.0258  1.0200  1.0217  
+
+######################### Item based Collaborative Filtering MSD K = 96 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0322
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0383
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0298
+------------
+------------
+Mean RMSE: 1.0334
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0322  1.0383  1.0298  1.0334  
+
+97
+######################### User based Collaborative Filtering MSD K = 97 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0193
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0258
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0200
+------------
+------------
+Mean RMSE: 1.0217
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0193  1.0258  1.0200  1.0217  
+
+######################### Item based Collaborative Filtering MSD K = 97 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0321
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0385
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0300
+------------
+------------
+Mean RMSE: 1.0335
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0321  1.0385  1.0300  1.0335  
+
+98
+######################### User based Collaborative Filtering MSD K = 98 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0194
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0258
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0201
+------------
+------------
+Mean RMSE: 1.0218
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0194  1.0258  1.0201  1.0218  
+
+######################### Item based Collaborative Filtering MSD K = 98 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0323
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0386
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0301
+------------
+------------
+Mean RMSE: 1.0336
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0323  1.0386  1.0301  1.0336  
+
+99
+######################### User based Collaborative Filtering MSD K = 99 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0194
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0259
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0201
+------------
+------------
+Mean RMSE: 1.0218
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0194  1.0259  1.0201  1.0218  
+
+######################### Item based Collaborative Filtering MSD K = 99 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0324
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0387
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0301
+------------
+------------
+Mean RMSE: 1.0337
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0324  1.0387  1.0301  1.0337  
+
+100
+######################### User based Collaborative Filtering MSD K = 100 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0194
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0260
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0202
+------------
+------------
+Mean RMSE: 1.0218
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0194  1.0260  1.0202  1.0218  
+
+######################### Item based Collaborative Filtering MSD K = 100 ##########################
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0325
+------------
+Fold 2
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0389
+------------
+Fold 3
+Computing the cosine similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0303
+------------
+------------
+Mean RMSE: 1.0339
+------------
+------------
+        Fold 1  Fold 2  Fold 3  Mean    
+RMSE    1.0325  1.0389  1.0303  1.0339  
+
